@@ -1,0 +1,5002 @@
+{
+    "23916, 2034": {
+        "lexicon_polarity": 0.3151,
+        "textblob_polarity": 0.2989,
+        "textblob_subjectivity": 0.652
+    },
+    "39651, 2034": {
+        "lexicon_polarity": 0.3354,
+        "textblob_polarity": 0.2744,
+        "textblob_subjectivity": 0.5569
+    },
+    "28212, 2034": {
+        "lexicon_polarity": 0.3312,
+        "textblob_polarity": 0.3049,
+        "textblob_subjectivity": 0.6625
+    },
+    "36152, 2034": {
+        "lexicon_polarity": 0.2278,
+        "textblob_polarity": 0.1741,
+        "textblob_subjectivity": 0.6167
+    },
+    "35612, 2034": {
+        "lexicon_polarity": 0.535,
+        "textblob_polarity": 0.4006,
+        "textblob_subjectivity": 0.6198
+    },
+    "64755, 2034": {
+        "lexicon_polarity": 0.3379,
+        "textblob_polarity": 0.2368,
+        "textblob_subjectivity": 0.6526
+    },
+    "51809, 2034": {
+        "lexicon_polarity": 0.4475,
+        "textblob_polarity": 0.3465,
+        "textblob_subjectivity": 0.5505
+    },
+    "140501, 2034": {
+        "lexicon_polarity": 0.1505,
+        "textblob_polarity": 0.1449,
+        "textblob_subjectivity": 0.5649
+    },
+    "209271, 2034": {
+        "lexicon_polarity": 0.2685,
+        "textblob_polarity": 0.2498,
+        "textblob_subjectivity": 0.6696
+    },
+    "130097, 2034": {
+        "lexicon_polarity": 0.1273,
+        "textblob_polarity": 0.0927,
+        "textblob_subjectivity": 0.4964
+    },
+    "129749, 2034": {
+        "lexicon_polarity": 0.3319,
+        "textblob_polarity": 0.2246,
+        "textblob_subjectivity": 0.5535
+    },
+    "62629, 2034": {
+        "lexicon_polarity": 0.3848,
+        "textblob_polarity": 0.3219,
+        "textblob_subjectivity": 0.584
+    },
+    "62817, 2034": {
+        "lexicon_polarity": 0.2995,
+        "textblob_polarity": 0.2405,
+        "textblob_subjectivity": 0.5872
+    },
+    "74487, 2034": {
+        "lexicon_polarity": 0.0743,
+        "textblob_polarity": 0.0584,
+        "textblob_subjectivity": 0.5707
+    },
+    "88439, 2034": {
+        "lexicon_polarity": 0.258,
+        "textblob_polarity": 0.1742,
+        "textblob_subjectivity": 0.6884
+    },
+    "18414, 2034": {
+        "lexicon_polarity": 0.25,
+        "textblob_polarity": 0.25,
+        "textblob_subjectivity": 0.3333
+    },
+    "6892, 2034": {
+        "lexicon_polarity": 0.2467,
+        "textblob_polarity": 0.1977,
+        "textblob_subjectivity": 0.5198
+    },
+    "20578, 2034": {
+        "lexicon_polarity": 0.328,
+        "textblob_polarity": 0.2325,
+        "textblob_subjectivity": 0.6384
+    },
+    "195669, 25013": {
+        "lexicon_polarity": 0.3297,
+        "textblob_polarity": 0.2391,
+        "textblob_subjectivity": 0.5361
+    },
+    "16985, 2034": {
+        "lexicon_polarity": 0.4933,
+        "textblob_polarity": 0.5833,
+        "textblob_subjectivity": 0.7347
+    },
+    "200485, 25013": {
+        "lexicon_polarity": 0.1491,
+        "textblob_polarity": 0.049,
+        "textblob_subjectivity": 0.363
+    },
+    "278716, 25013": {
+        "lexicon_polarity": 0.0761,
+        "textblob_polarity": 0.0329,
+        "textblob_subjectivity": 0.5198
+    },
+    "278983, 25013": {
+        "lexicon_polarity": 0.3682,
+        "textblob_polarity": 0.2157,
+        "textblob_subjectivity": 0.6765
+    },
+    "280230, 25013": {
+        "lexicon_polarity": 0.4008,
+        "textblob_polarity": 0.3324,
+        "textblob_subjectivity": 0.6452
+    },
+    "280894, 25013": {
+        "lexicon_polarity": 0.3335,
+        "textblob_polarity": 0.2817,
+        "textblob_subjectivity": 0.6056
+    },
+    "238800, 25013": {
+        "lexicon_polarity": 0.1697,
+        "textblob_polarity": 0.1536,
+        "textblob_subjectivity": 0.5736
+    },
+    "254137, 25013": {
+        "lexicon_polarity": 0.4123,
+        "textblob_polarity": 0.3335,
+        "textblob_subjectivity": 0.6146
+    },
+    "240626, 25013": {
+        "lexicon_polarity": 0.2368,
+        "textblob_polarity": 0.2269,
+        "textblob_subjectivity": 0.588
+    },
+    "254731, 25013": {
+        "lexicon_polarity": -0.0479,
+        "textblob_polarity": 0.0062,
+        "textblob_subjectivity": 0.4913
+    },
+    "242001, 25013": {
+        "lexicon_polarity": 0.2901,
+        "textblob_polarity": 0.238,
+        "textblob_subjectivity": 0.6068
+    },
+    "263007, 25013": {
+        "lexicon_polarity": 0.3036,
+        "textblob_polarity": 0.3039,
+        "textblob_subjectivity": 0.6245
+    },
+    "221350, 25013": {
+        "lexicon_polarity": 0.2893,
+        "textblob_polarity": 0.1977,
+        "textblob_subjectivity": 0.5557
+    },
+    "224380, 25013": {
+        "lexicon_polarity": 0.0841,
+        "textblob_polarity": 0.1039,
+        "textblob_subjectivity": 0.4098
+    },
+    "215467, 25013": {
+        "lexicon_polarity": 0.1521,
+        "textblob_polarity": 0.1969,
+        "textblob_subjectivity": 0.4603
+    },
+    "189406, 25013": {
+        "lexicon_polarity": 0.3895,
+        "textblob_polarity": 0.3169,
+        "textblob_subjectivity": 0.4964
+    },
+    "191527, 25013": {
+        "lexicon_polarity": 0.3067,
+        "textblob_polarity": 0.1805,
+        "textblob_subjectivity": 0.4546
+    },
+    "201306, 25013": {
+        "lexicon_polarity": 0.45,
+        "textblob_polarity": 0.25,
+        "textblob_subjectivity": 0.5281
+    },
+    "175315, 25013": {
+        "lexicon_polarity": 0.129,
+        "textblob_polarity": 0.1202,
+        "textblob_subjectivity": 0.5341
+    },
+    "244773, 33206": {
+        "lexicon_polarity": 0.257,
+        "textblob_polarity": 0.1469,
+        "textblob_subjectivity": 0.4493
+    },
+    "244783, 33206": {
+        "lexicon_polarity": 0.225,
+        "textblob_polarity": 0.1654,
+        "textblob_subjectivity": 0.5038
+    },
+    "244901, 33206": {
+        "lexicon_polarity": 0.2563,
+        "textblob_polarity": 0.2245,
+        "textblob_subjectivity": 0.5113
+    },
+    "244915, 33206": {
+        "lexicon_polarity": 0.3814,
+        "textblob_polarity": 0.3131,
+        "textblob_subjectivity": 0.5669
+    },
+    "245415, 33206": {
+        "lexicon_polarity": 0.1629,
+        "textblob_polarity": 0.1739,
+        "textblob_subjectivity": 0.6111
+    },
+    "245828, 33206": {
+        "lexicon_polarity": 0.2083,
+        "textblob_polarity": 0.1662,
+        "textblob_subjectivity": 0.4748
+    },
+    "245882, 33206": {
+        "lexicon_polarity": 0.178,
+        "textblob_polarity": 0.1424,
+        "textblob_subjectivity": 0.4661
+    },
+    "246166, 33206": {
+        "lexicon_polarity": 0.1879,
+        "textblob_polarity": 0.1681,
+        "textblob_subjectivity": 0.5911
+    },
+    "247792, 33206": {
+        "lexicon_polarity": 0.2877,
+        "textblob_polarity": 0.2158,
+        "textblob_subjectivity": 0.6238
+    },
+    "248052, 33206": {
+        "lexicon_polarity": 0.3974,
+        "textblob_polarity": 0.3891,
+        "textblob_subjectivity": 0.7286
+    },
+    "248226, 33206": {
+        "lexicon_polarity": 0.168,
+        "textblob_polarity": 0.1649,
+        "textblob_subjectivity": 0.5524
+    },
+    "248523, 33206": {
+        "lexicon_polarity": 0.4371,
+        "textblob_polarity": 0.3808,
+        "textblob_subjectivity": 0.5551
+    },
+    "249192, 33206": {
+        "lexicon_polarity": 0.1788,
+        "textblob_polarity": 0.2388,
+        "textblob_subjectivity": 0.4973
+    },
+    "249878, 33206": {
+        "lexicon_polarity": 0.0198,
+        "textblob_polarity": -0.011,
+        "textblob_subjectivity": 0.5087
+    },
+    "249844, 33206": {
+        "lexicon_polarity": 0.2625,
+        "textblob_polarity": 0.1806,
+        "textblob_subjectivity": 0.4802
+    },
+    "252118, 33206": {
+        "lexicon_polarity": 0.5611,
+        "textblob_polarity": 0.5564,
+        "textblob_subjectivity": 0.6962
+    },
+    "253469, 33206": {
+        "lexicon_polarity": 0.1523,
+        "textblob_polarity": 0.1351,
+        "textblob_subjectivity": 0.4702
+    },
+    "64313, 237": {
+        "lexicon_polarity": 0.2688,
+        "textblob_polarity": 0.2225,
+        "textblob_subjectivity": 0.482
+    },
+    "106123, 237": {
+        "lexicon_polarity": 0.1518,
+        "textblob_polarity": 0.1129,
+        "textblob_subjectivity": 0.5286
+    },
+    "29283, 237": {
+        "lexicon_polarity": 0.173,
+        "textblob_polarity": 0.2196,
+        "textblob_subjectivity": 0.51
+    },
+    "216959, 237": {
+        "lexicon_polarity": 0.017,
+        "textblob_polarity": 0.0476,
+        "textblob_subjectivity": 0.4927
+    },
+    "10271, 237": {
+        "lexicon_polarity": -0.0067,
+        "textblob_polarity": 0.1089,
+        "textblob_subjectivity": 0.4893
+    },
+    "237729, 237": {
+        "lexicon_polarity": 0.0623,
+        "textblob_polarity": 0.038,
+        "textblob_subjectivity": 0.4474
+    },
+    "33319, 237": {
+        "lexicon_polarity": 0.2033,
+        "textblob_polarity": 0.2366,
+        "textblob_subjectivity": 0.6175
+    },
+    "40915, 237": {
+        "lexicon_polarity": 0.3058,
+        "textblob_polarity": 0.288,
+        "textblob_subjectivity": 0.534
+    },
+    "14158, 237": {
+        "lexicon_polarity": -0.1,
+        "textblob_polarity": -0.028,
+        "textblob_subjectivity": 0.532
+    },
+    "18278, 237": {
+        "lexicon_polarity": 0.4,
+        "textblob_polarity": 0.2889,
+        "textblob_subjectivity": 0.5167
+    },
+    "19048, 237": {
+        "lexicon_polarity": 0.275,
+        "textblob_polarity": 0.334,
+        "textblob_subjectivity": 0.425
+    },
+    "42037, 237": {
+        "lexicon_polarity": 0.2122,
+        "textblob_polarity": 0.1799,
+        "textblob_subjectivity": 0.5375
+    },
+    "70531, 237": {
+        "lexicon_polarity": 0.4913,
+        "textblob_polarity": 0.4077,
+        "textblob_subjectivity": 0.5756
+    },
+    "45365, 237": {
+        "lexicon_polarity": 0.336,
+        "textblob_polarity": 0.226,
+        "textblob_subjectivity": 0.4457
+    },
+    "137305, 237": {
+        "lexicon_polarity": 0.2092,
+        "textblob_polarity": 0.1555,
+        "textblob_subjectivity": 0.5768
+    },
+    "141461, 237": {
+        "lexicon_polarity": 0.1774,
+        "textblob_polarity": 0.1923,
+        "textblob_subjectivity": 0.5214
+    },
+    "229863, 237": {
+        "lexicon_polarity": 0.2659,
+        "textblob_polarity": 0.206,
+        "textblob_subjectivity": 0.4931
+    },
+    "98513, 237": {
+        "lexicon_polarity": 0.1963,
+        "textblob_polarity": 0.1933,
+        "textblob_subjectivity": 0.5225
+    },
+    "237761, 2034": {
+        "lexicon_polarity": 0.2667,
+        "textblob_polarity": 0.1982,
+        "textblob_subjectivity": 0.5278
+    },
+    "244321, 2034": {
+        "lexicon_polarity": 0.1306,
+        "textblob_polarity": 0.1553,
+        "textblob_subjectivity": 0.6097
+    },
+    "249520, 2034": {
+        "lexicon_polarity": 0.1287,
+        "textblob_polarity": 0.1702,
+        "textblob_subjectivity": 0.5068
+    },
+    "254631, 2034": {
+        "lexicon_polarity": 0.2875,
+        "textblob_polarity": 0.24,
+        "textblob_subjectivity": 0.49
+    },
+    "255343, 2034": {
+        "lexicon_polarity": 0.2282,
+        "textblob_polarity": 0.1583,
+        "textblob_subjectivity": 0.5769
+    },
+    "257270, 2034": {
+        "lexicon_polarity": 0.292,
+        "textblob_polarity": 0.1827,
+        "textblob_subjectivity": 0.5029
+    },
+    "260536, 2034": {
+        "lexicon_polarity": 0.1161,
+        "textblob_polarity": 0.1754,
+        "textblob_subjectivity": 0.4296
+    },
+    "260971, 2034": {
+        "lexicon_polarity": 0.3166,
+        "textblob_polarity": 0.3342,
+        "textblob_subjectivity": 0.5821
+    },
+    "262877, 2034": {
+        "lexicon_polarity": 0.1373,
+        "textblob_polarity": 0.0793,
+        "textblob_subjectivity": 0.47
+    },
+    "278158, 2034": {
+        "lexicon_polarity": 0.1936,
+        "textblob_polarity": 0.1914,
+        "textblob_subjectivity": 0.524
+    },
+    "37256, 2034": {
+        "lexicon_polarity": 0.3009,
+        "textblob_polarity": 0.3071,
+        "textblob_subjectivity": 0.5359
+    },
+    "38217, 2034": {
+        "lexicon_polarity": 0.3223,
+        "textblob_polarity": 0.2685,
+        "textblob_subjectivity": 0.559
+    },
+    "8660, 2034": {
+        "lexicon_polarity": 0.3521,
+        "textblob_polarity": 0.3202,
+        "textblob_subjectivity": 0.781
+    },
+    "8234, 2034": {
+        "lexicon_polarity": 0.2389,
+        "textblob_polarity": 0.124,
+        "textblob_subjectivity": 0.3839
+    },
+    "111695, 2034": {
+        "lexicon_polarity": 0.4032,
+        "textblob_polarity": 0.3031,
+        "textblob_subjectivity": 0.5845
+    },
+    "29662, 2034": {
+        "lexicon_polarity": 0.5633,
+        "textblob_polarity": 0.1592,
+        "textblob_subjectivity": 0.495
+    },
+    "166019, 2034": {
+        "lexicon_polarity": 0.4048,
+        "textblob_polarity": 0.4635,
+        "textblob_subjectivity": 0.7292
+    },
+    "212194, 2034": {
+        "lexicon_polarity": 0.4183,
+        "textblob_polarity": 0.311,
+        "textblob_subjectivity": 0.4525
+    },
+    "11107, 2034": {
+        "lexicon_polarity": 0.3475,
+        "textblob_polarity": 0.2712,
+        "textblob_subjectivity": 0.5189
+    },
+    "10101, 2034": {
+        "lexicon_polarity": 0.2636,
+        "textblob_polarity": 0.2719,
+        "textblob_subjectivity": 0.6448
+    },
+    "189466, 25013": {
+        "lexicon_polarity": 0.1594,
+        "textblob_polarity": 0.1063,
+        "textblob_subjectivity": 0.4914
+    },
+    "195799, 25013": {
+        "lexicon_polarity": 0.2423,
+        "textblob_polarity": 0.225,
+        "textblob_subjectivity": 0.5498
+    },
+    "211895, 25013": {
+        "lexicon_polarity": 0.3654,
+        "textblob_polarity": 0.3754,
+        "textblob_subjectivity": 0.657
+    },
+    "211800, 25013": {
+        "lexicon_polarity": 0.2459,
+        "textblob_polarity": 0.2455,
+        "textblob_subjectivity": 0.5512
+    },
+    "198995, 25013": {
+        "lexicon_polarity": 0.2862,
+        "textblob_polarity": 0.248,
+        "textblob_subjectivity": 0.5184
+    },
+    "197409, 25013": {
+        "lexicon_polarity": 0.2611,
+        "textblob_polarity": 0.1766,
+        "textblob_subjectivity": 0.4703
+    },
+    "210622, 25013": {
+        "lexicon_polarity": 0.4833,
+        "textblob_polarity": 0.2821,
+        "textblob_subjectivity": 0.3308
+    },
+    "226461, 25013": {
+        "lexicon_polarity": 0.1644,
+        "textblob_polarity": 0.1832,
+        "textblob_subjectivity": 0.5423
+    },
+    "178651, 25013": {
+        "lexicon_polarity": 0.059,
+        "textblob_polarity": 0.1426,
+        "textblob_subjectivity": 0.6147
+    },
+    "212905, 25013": {
+        "lexicon_polarity": 0.124,
+        "textblob_polarity": 0.0974,
+        "textblob_subjectivity": 0.5063
+    },
+    "249476, 25013": {
+        "lexicon_polarity": 0.3685,
+        "textblob_polarity": 0.322,
+        "textblob_subjectivity": 0.4508
+    },
+    "269441, 25013": {
+        "lexicon_polarity": 0.2246,
+        "textblob_polarity": 0.1818,
+        "textblob_subjectivity": 0.5154
+    },
+    "271118, 25013": {
+        "lexicon_polarity": 0.1634,
+        "textblob_polarity": 0.1276,
+        "textblob_subjectivity": 0.5173
+    },
+    "271698, 25013": {
+        "lexicon_polarity": 0.1901,
+        "textblob_polarity": 0.3094,
+        "textblob_subjectivity": 0.3889
+    },
+    "310196, 25013": {
+        "lexicon_polarity": 0.2072,
+        "textblob_polarity": 0.1858,
+        "textblob_subjectivity": 0.4948
+    },
+    "312383, 25013": {
+        "lexicon_polarity": 0.0041,
+        "textblob_polarity": 0.0584,
+        "textblob_subjectivity": 0.5151
+    },
+    "278253, 25013": {
+        "lexicon_polarity": 0.1825,
+        "textblob_polarity": 0.1917,
+        "textblob_subjectivity": 0.5105
+    },
+    "183243, 25013": {
+        "lexicon_polarity": 0.1428,
+        "textblob_polarity": 0.1122,
+        "textblob_subjectivity": 0.489
+    },
+    "183239, 25013": {
+        "lexicon_polarity": 0.1978,
+        "textblob_polarity": 0.1976,
+        "textblob_subjectivity": 0.5541
+    },
+    "313461, 33206": {
+        "lexicon_polarity": 0.1714,
+        "textblob_polarity": 0.2025,
+        "textblob_subjectivity": 0.4692
+    },
+    "256784, 33206": {
+        "lexicon_polarity": 0.2535,
+        "textblob_polarity": 0.2131,
+        "textblob_subjectivity": 0.5769
+    },
+    "315756, 33206": {
+        "lexicon_polarity": 0.3271,
+        "textblob_polarity": 0.184,
+        "textblob_subjectivity": 0.4759
+    },
+    "316079, 33206": {
+        "lexicon_polarity": 0.282,
+        "textblob_polarity": 0.1953,
+        "textblob_subjectivity": 0.575
+    },
+    "317925, 33206": {
+        "lexicon_polarity": 0.2075,
+        "textblob_polarity": 0.169,
+        "textblob_subjectivity": 0.4619
+    },
+    "318877, 33206": {
+        "lexicon_polarity": 0.3945,
+        "textblob_polarity": 0.3152,
+        "textblob_subjectivity": 0.6444
+    },
+    "320425, 33206": {
+        "lexicon_polarity": 0.1989,
+        "textblob_polarity": 0.188,
+        "textblob_subjectivity": 0.5642
+    },
+    "320632, 33206": {
+        "lexicon_polarity": 0.4001,
+        "textblob_polarity": 0.3219,
+        "textblob_subjectivity": 0.496
+    },
+    "322672, 33206": {
+        "lexicon_polarity": 0.2667,
+        "textblob_polarity": 0.1312,
+        "textblob_subjectivity": 0.4782
+    },
+    "323523, 33206": {
+        "lexicon_polarity": 0.1918,
+        "textblob_polarity": 0.1616,
+        "textblob_subjectivity": 0.5391
+    },
+    "323570, 33206": {
+        "lexicon_polarity": 0.2328,
+        "textblob_polarity": 0.2071,
+        "textblob_subjectivity": 0.467
+    },
+    "324707, 33206": {
+        "lexicon_polarity": 0.2453,
+        "textblob_polarity": 0.188,
+        "textblob_subjectivity": 0.5263
+    },
+    "263042, 33206": {
+        "lexicon_polarity": 0.3412,
+        "textblob_polarity": 0.3513,
+        "textblob_subjectivity": 0.6145
+    },
+    "263137, 33206": {
+        "lexicon_polarity": 0.2498,
+        "textblob_polarity": 0.2284,
+        "textblob_subjectivity": 0.5075
+    },
+    "264539, 33206": {
+        "lexicon_polarity": 0.318,
+        "textblob_polarity": 0.2388,
+        "textblob_subjectivity": 0.5505
+    },
+    "265878, 33206": {
+        "lexicon_polarity": 0.4474,
+        "textblob_polarity": 0.3637,
+        "textblob_subjectivity": 0.5054
+    },
+    "58635, 237": {
+        "lexicon_polarity": 0.4058,
+        "textblob_polarity": 0.2835,
+        "textblob_subjectivity": 0.7064
+    },
+    "13512, 237": {
+        "lexicon_polarity": 0.3468,
+        "textblob_polarity": 0.3325,
+        "textblob_subjectivity": 0.5147
+    },
+    "72911, 237": {
+        "lexicon_polarity": 0.2781,
+        "textblob_polarity": 0.2442,
+        "textblob_subjectivity": 0.5727
+    },
+    "76705, 237": {
+        "lexicon_polarity": 0.5045,
+        "textblob_polarity": 0.4194,
+        "textblob_subjectivity": 0.5227
+    },
+    "13342, 237": {
+        "lexicon_polarity": 0.75,
+        "textblob_polarity": 0.5767,
+        "textblob_subjectivity": 0.6817
+    },
+    "248907, 237": {
+        "lexicon_polarity": 0.2602,
+        "textblob_polarity": 0.1755,
+        "textblob_subjectivity": 0.4711
+    },
+    "277947, 237": {
+        "lexicon_polarity": 0.0661,
+        "textblob_polarity": 0.0881,
+        "textblob_subjectivity": 0.5473
+    },
+    "4299, 237": {
+        "lexicon_polarity": 0.0986,
+        "textblob_polarity": 0.1432,
+        "textblob_subjectivity": 0.5426
+    },
+    "28339, 237": {
+        "lexicon_polarity": 0.2701,
+        "textblob_polarity": 0.1992,
+        "textblob_subjectivity": 0.5351
+    },
+    "2489, 237": {
+        "lexicon_polarity": 0.1081,
+        "textblob_polarity": 0.1403,
+        "textblob_subjectivity": 0.5526
+    },
+    "26532, 237": {
+        "lexicon_polarity": 0.291,
+        "textblob_polarity": 0.28,
+        "textblob_subjectivity": 0.5104
+    },
+    "92143, 237": {
+        "lexicon_polarity": 0.1053,
+        "textblob_polarity": 0.1532,
+        "textblob_subjectivity": 0.4428
+    },
+    "80828, 237": {
+        "lexicon_polarity": 0.2605,
+        "textblob_polarity": 0.2295,
+        "textblob_subjectivity": 0.5512
+    },
+    "206757, 237": {
+        "lexicon_polarity": 0.0917,
+        "textblob_polarity": 0.0946,
+        "textblob_subjectivity": 0.5305
+    },
+    "149575, 237": {
+        "lexicon_polarity": 0.2168,
+        "textblob_polarity": 0.1741,
+        "textblob_subjectivity": 0.4691
+    },
+    "136343, 237": {
+        "lexicon_polarity": 0.1637,
+        "textblob_polarity": 0.1339,
+        "textblob_subjectivity": 0.4911
+    },
+    "19327, 237": {
+        "lexicon_polarity": 0.4795,
+        "textblob_polarity": 0.4036,
+        "textblob_subjectivity": 0.4433
+    },
+    "111147, 237": {
+        "lexicon_polarity": 0.2515,
+        "textblob_polarity": 0.2247,
+        "textblob_subjectivity": 0.5141
+    },
+    "14624, 237": {
+        "lexicon_polarity": 0.4023,
+        "textblob_polarity": 0.4187,
+        "textblob_subjectivity": 0.6318
+    },
+    "22943, 2034": {
+        "lexicon_polarity": 0.3896,
+        "textblob_polarity": 0.2669,
+        "textblob_subjectivity": 0.5354
+    },
+    "33886, 2034": {
+        "lexicon_polarity": 0.29,
+        "textblob_polarity": 0.19,
+        "textblob_subjectivity": 0.5283
+    },
+    "72959, 2034": {
+        "lexicon_polarity": 0.3528,
+        "textblob_polarity": 0.2362,
+        "textblob_subjectivity": 0.5548
+    },
+    "32554, 2034": {
+        "lexicon_polarity": 0.3741,
+        "textblob_polarity": 0.2905,
+        "textblob_subjectivity": 0.5984
+    },
+    "133281, 2034": {
+        "lexicon_polarity": 0.3259,
+        "textblob_polarity": 0.2691,
+        "textblob_subjectivity": 0.4929
+    },
+    "3255, 2034": {
+        "lexicon_polarity": 0.3293,
+        "textblob_polarity": 0.2391,
+        "textblob_subjectivity": 0.5472
+    },
+    "10493, 2034": {
+        "lexicon_polarity": 0.205,
+        "textblob_polarity": 0.1861,
+        "textblob_subjectivity": 0.4167
+    },
+    "134719, 2034": {
+        "lexicon_polarity": 0.3546,
+        "textblob_polarity": 0.2974,
+        "textblob_subjectivity": 0.6833
+    },
+    "237848, 2034": {
+        "lexicon_polarity": 0.2296,
+        "textblob_polarity": 0.2136,
+        "textblob_subjectivity": 0.5555
+    },
+    "240919, 2034": {
+        "lexicon_polarity": 0.2114,
+        "textblob_polarity": 0.2601,
+        "textblob_subjectivity": 0.5992
+    },
+    "286515, 2034": {
+        "lexicon_polarity": 0.1825,
+        "textblob_polarity": 0.1482,
+        "textblob_subjectivity": 0.4819
+    },
+    "244061, 2034": {
+        "lexicon_polarity": 0.251,
+        "textblob_polarity": 0.2229,
+        "textblob_subjectivity": 0.499
+    },
+    "249113, 2034": {
+        "lexicon_polarity": 0.1666,
+        "textblob_polarity": 0.1394,
+        "textblob_subjectivity": 0.4558
+    },
+    "304347, 2034": {
+        "lexicon_polarity": 0.0289,
+        "textblob_polarity": 0.0456,
+        "textblob_subjectivity": 0.5752
+    },
+    "309537, 2034": {
+        "lexicon_polarity": 0.2894,
+        "textblob_polarity": 0.1755,
+        "textblob_subjectivity": 0.5059
+    },
+    "5466, 2034": {
+        "lexicon_polarity": 0.1529,
+        "textblob_polarity": 0.1198,
+        "textblob_subjectivity": 0.5998
+    },
+    "33744, 2034": {
+        "lexicon_polarity": 0.3263,
+        "textblob_polarity": 0.2315,
+        "textblob_subjectivity": 0.4505
+    },
+    "4314, 2034": {
+        "lexicon_polarity": 0.308,
+        "textblob_polarity": 0.1958,
+        "textblob_subjectivity": 0.5961
+    },
+    "189281, 2034": {
+        "lexicon_polarity": 0.1385,
+        "textblob_polarity": 0.0708,
+        "textblob_subjectivity": 0.5388
+    },
+    "51391, 2034": {
+        "lexicon_polarity": 0.3245,
+        "textblob_polarity": 0.2631,
+        "textblob_subjectivity": 0.5792
+    },
+    "183497, 25013": {
+        "lexicon_polarity": 0.1698,
+        "textblob_polarity": 0.1463,
+        "textblob_subjectivity": 0.5325
+    },
+    "234545, 25013": {
+        "lexicon_polarity": 0.1692,
+        "textblob_polarity": 0.1422,
+        "textblob_subjectivity": 0.5565
+    },
+    "195334, 25013": {
+        "lexicon_polarity": -0.0577,
+        "textblob_polarity": 0.1261,
+        "textblob_subjectivity": 0.5394
+    },
+    "183235, 25013": {
+        "lexicon_polarity": 0.249,
+        "textblob_polarity": 0.1593,
+        "textblob_subjectivity": 0.4383
+    },
+    "229044, 25013": {
+        "lexicon_polarity": 0.2415,
+        "textblob_polarity": 0.2272,
+        "textblob_subjectivity": 0.5761
+    },
+    "209624, 25013": {
+        "lexicon_polarity": 0.1331,
+        "textblob_polarity": 0.1042,
+        "textblob_subjectivity": 0.4957
+    },
+    "188112, 25013": {
+        "lexicon_polarity": 0.3009,
+        "textblob_polarity": 0.2728,
+        "textblob_subjectivity": 0.5877
+    },
+    "221893, 25013": {
+        "lexicon_polarity": 0.3193,
+        "textblob_polarity": 0.2568,
+        "textblob_subjectivity": 0.5225
+    },
+    "204336, 25013": {
+        "lexicon_polarity": 0.3351,
+        "textblob_polarity": 0.2749,
+        "textblob_subjectivity": 0.7116
+    },
+    "227442, 25013": {
+        "lexicon_polarity": 0.0881,
+        "textblob_polarity": 0.086,
+        "textblob_subjectivity": 0.5229
+    },
+    "209543, 25013": {
+        "lexicon_polarity": 0.1711,
+        "textblob_polarity": 0.1371,
+        "textblob_subjectivity": 0.5186
+    },
+    "186338, 25013": {
+        "lexicon_polarity": 0.45,
+        "textblob_polarity": 0.3018,
+        "textblob_subjectivity": 0.3463
+    },
+    "210073, 25013": {
+        "lexicon_polarity": 0.3292,
+        "textblob_polarity": 0.3264,
+        "textblob_subjectivity": 0.6823
+    },
+    "169815, 25013": {
+        "lexicon_polarity": 0.13,
+        "textblob_polarity": 0.1014,
+        "textblob_subjectivity": 0.6052
+    },
+    "207307, 25013": {
+        "lexicon_polarity": 0.1998,
+        "textblob_polarity": 0.1602,
+        "textblob_subjectivity": 0.6845
+    },
+    "207033, 25013": {
+        "lexicon_polarity": 0.3217,
+        "textblob_polarity": 0.2551,
+        "textblob_subjectivity": 0.5141
+    },
+    "187250, 25013": {
+        "lexicon_polarity": 0.1886,
+        "textblob_polarity": 0.133,
+        "textblob_subjectivity": 0.5081
+    },
+    "211571, 25013": {
+        "lexicon_polarity": 0.3557,
+        "textblob_polarity": 0.3557,
+        "textblob_subjectivity": 0.6478
+    },
+    "184750, 25013": {
+        "lexicon_polarity": 0.2367,
+        "textblob_polarity": 0.1785,
+        "textblob_subjectivity": 0.5097
+    },
+    "244776, 33206": {
+        "lexicon_polarity": 0.0358,
+        "textblob_polarity": 0.0654,
+        "textblob_subjectivity": 0.5033
+    },
+    "244784, 33206": {
+        "lexicon_polarity": 0.0281,
+        "textblob_polarity": 0.0401,
+        "textblob_subjectivity": 0.4712
+    },
+    "244793, 33206": {
+        "lexicon_polarity": 0.0946,
+        "textblob_polarity": 0.1441,
+        "textblob_subjectivity": 0.4351
+    },
+    "244903, 33206": {
+        "lexicon_polarity": 0.1987,
+        "textblob_polarity": 0.0944,
+        "textblob_subjectivity": 0.514
+    },
+    "244906, 33206": {
+        "lexicon_polarity": 0.3612,
+        "textblob_polarity": 0.2963,
+        "textblob_subjectivity": 0.6455
+    },
+    "268584, 33206": {
+        "lexicon_polarity": 0.264,
+        "textblob_polarity": 0.1772,
+        "textblob_subjectivity": 0.5539
+    },
+    "246538, 33206": {
+        "lexicon_polarity": 0.0477,
+        "textblob_polarity": 0.0222,
+        "textblob_subjectivity": 0.6062
+    },
+    "275151, 33206": {
+        "lexicon_polarity": 0.1278,
+        "textblob_polarity": 0.1214,
+        "textblob_subjectivity": 0.4917
+    },
+    "248532, 33206": {
+        "lexicon_polarity": 0.1185,
+        "textblob_polarity": 0.1346,
+        "textblob_subjectivity": 0.5253
+    },
+    "249463, 33206": {
+        "lexicon_polarity": 0.2208,
+        "textblob_polarity": 0.1802,
+        "textblob_subjectivity": 0.6206
+    },
+    "279415, 33206": {
+        "lexicon_polarity": 0.3533,
+        "textblob_polarity": 0.2689,
+        "textblob_subjectivity": 0.5932
+    },
+    "279825, 33206": {
+        "lexicon_polarity": 0.2366,
+        "textblob_polarity": 0.331,
+        "textblob_subjectivity": 0.5407
+    },
+    "280026, 33206": {
+        "lexicon_polarity": 0.1596,
+        "textblob_polarity": 0.1633,
+        "textblob_subjectivity": 0.5329
+    },
+    "250877, 33206": {
+        "lexicon_polarity": 0.2382,
+        "textblob_polarity": 0.1783,
+        "textblob_subjectivity": 0.4839
+    },
+    "280715, 33206": {
+        "lexicon_polarity": 0.231,
+        "textblob_polarity": 0.1631,
+        "textblob_subjectivity": 0.4519
+    },
+    "280756, 33206": {
+        "lexicon_polarity": 0.444,
+        "textblob_polarity": 0.2839,
+        "textblob_subjectivity": 0.6352
+    },
+    "72715, 237": {
+        "lexicon_polarity": 0.1821,
+        "textblob_polarity": 0.1892,
+        "textblob_subjectivity": 0.5326
+    },
+    "72045, 237": {
+        "lexicon_polarity": 0.1632,
+        "textblob_polarity": 0.326,
+        "textblob_subjectivity": 0.5828
+    },
+    "64093, 237": {
+        "lexicon_polarity": 0.2159,
+        "textblob_polarity": 0.2009,
+        "textblob_subjectivity": 0.4877
+    },
+    "188620, 237": {
+        "lexicon_polarity": 0.2093,
+        "textblob_polarity": 0.1878,
+        "textblob_subjectivity": 0.5547
+    },
+    "76623, 237": {
+        "lexicon_polarity": 0.2671,
+        "textblob_polarity": 0.2078,
+        "textblob_subjectivity": 0.5252
+    },
+    "57217, 237": {
+        "lexicon_polarity": 0.1018,
+        "textblob_polarity": 0.0812,
+        "textblob_subjectivity": 0.4195
+    },
+    "94171, 237": {
+        "lexicon_polarity": 0.4329,
+        "textblob_polarity": 0.3594,
+        "textblob_subjectivity": 0.6291
+    },
+    "86779, 237": {
+        "lexicon_polarity": 0.0881,
+        "textblob_polarity": 0.1085,
+        "textblob_subjectivity": 0.7295
+    },
+    "15329, 237": {
+        "lexicon_polarity": 0.1742,
+        "textblob_polarity": 0.1702,
+        "textblob_subjectivity": 0.5816
+    },
+    "163549, 237": {
+        "lexicon_polarity": 0.0454,
+        "textblob_polarity": 0.0811,
+        "textblob_subjectivity": 0.5203
+    },
+    "68207, 237": {
+        "lexicon_polarity": 0.209,
+        "textblob_polarity": 0.1704,
+        "textblob_subjectivity": 0.474
+    },
+    "219568, 237": {
+        "lexicon_polarity": -0.0641,
+        "textblob_polarity": -0.0428,
+        "textblob_subjectivity": 0.6065
+    },
+    "35764, 237": {
+        "lexicon_polarity": 0.2931,
+        "textblob_polarity": 0.2457,
+        "textblob_subjectivity": 0.5103
+    },
+    "272116, 237": {
+        "lexicon_polarity": 0.1684,
+        "textblob_polarity": 0.1449,
+        "textblob_subjectivity": 0.4309
+    },
+    "235453, 237": {
+        "lexicon_polarity": 0.1935,
+        "textblob_polarity": 0.164,
+        "textblob_subjectivity": 0.5144
+    },
+    "183269, 237": {
+        "lexicon_polarity": 0.1894,
+        "textblob_polarity": 0.1874,
+        "textblob_subjectivity": 0.5597
+    },
+    "160761, 237": {
+        "lexicon_polarity": 0.615,
+        "textblob_polarity": 0.5321,
+        "textblob_subjectivity": 0.6699
+    },
+    "15272, 237": {
+        "lexicon_polarity": 0.2915,
+        "textblob_polarity": 0.3029,
+        "textblob_subjectivity": 0.5465
+    },
+    "309431, 237": {
+        "lexicon_polarity": 0.2135,
+        "textblob_polarity": 0.1953,
+        "textblob_subjectivity": 0.5533
+    },
+    "33927, 2034": {
+        "lexicon_polarity": 0.4316,
+        "textblob_polarity": 0.3498,
+        "textblob_subjectivity": 0.5306
+    },
+    "3213, 2034": {
+        "lexicon_polarity": 0.3022,
+        "textblob_polarity": 0.2597,
+        "textblob_subjectivity": 0.5617
+    },
+    "34986, 2034": {
+        "lexicon_polarity": 0.1364,
+        "textblob_polarity": 0.1417,
+        "textblob_subjectivity": 0.5591
+    },
+    "119829, 2034": {
+        "lexicon_polarity": -0.4041,
+        "textblob_polarity": -0.17,
+        "textblob_subjectivity": 0.6367
+    },
+    "212842, 2034": {
+        "lexicon_polarity": 0.186,
+        "textblob_polarity": 0.2372,
+        "textblob_subjectivity": 0.6768
+    },
+    "112995, 2034": {
+        "lexicon_polarity": 0.3399,
+        "textblob_polarity": 0.2626,
+        "textblob_subjectivity": 0.4609
+    },
+    "25506, 2034": {
+        "lexicon_polarity": 0.1875,
+        "textblob_polarity": 0.1756,
+        "textblob_subjectivity": 0.5564
+    },
+    "30457, 2034": {
+        "lexicon_polarity": 0.175,
+        "textblob_polarity": 0.1193,
+        "textblob_subjectivity": 0.6979
+    },
+    "105889, 2034": {
+        "lexicon_polarity": 0.1485,
+        "textblob_polarity": 0.2016,
+        "textblob_subjectivity": 0.4517
+    },
+    "135613, 2034": {
+        "lexicon_polarity": 0.2034,
+        "textblob_polarity": 0.2346,
+        "textblob_subjectivity": 0.6101
+    },
+    "170371, 2034": {
+        "lexicon_polarity": 0.1931,
+        "textblob_polarity": 0.1072,
+        "textblob_subjectivity": 0.4859
+    },
+    "132755, 2034": {
+        "lexicon_polarity": 0.3853,
+        "textblob_polarity": 0.3094,
+        "textblob_subjectivity": 0.5209
+    },
+    "157113, 2034": {
+        "lexicon_polarity": 0.3911,
+        "textblob_polarity": 0.3666,
+        "textblob_subjectivity": 0.6011
+    },
+    "144645, 2034": {
+        "lexicon_polarity": 0.1901,
+        "textblob_polarity": 0.1692,
+        "textblob_subjectivity": 0.428
+    },
+    "52401, 2034": {
+        "lexicon_polarity": 0.3276,
+        "textblob_polarity": 0.2993,
+        "textblob_subjectivity": 0.6568
+    },
+    "44175, 2034": {
+        "lexicon_polarity": 0.313,
+        "textblob_polarity": 0.279,
+        "textblob_subjectivity": 0.5572
+    },
+    "24384, 2034": {
+        "lexicon_polarity": 0.3118,
+        "textblob_polarity": 0.2165,
+        "textblob_subjectivity": 0.6173
+    },
+    "153323, 2034": {
+        "lexicon_polarity": 0.3838,
+        "textblob_polarity": 0.3526,
+        "textblob_subjectivity": 0.593
+    },
+    "183003, 2034": {
+        "lexicon_polarity": 0.1996,
+        "textblob_polarity": 0.224,
+        "textblob_subjectivity": 0.4985
+    },
+    "219560, 2034": {
+        "lexicon_polarity": 0.2507,
+        "textblob_polarity": 0.3501,
+        "textblob_subjectivity": 0.7099
+    },
+    "316677, 25013": {
+        "lexicon_polarity": 0.3081,
+        "textblob_polarity": 0.2591,
+        "textblob_subjectivity": 0.5235
+    },
+    "324092, 25013": {
+        "lexicon_polarity": 0.3153,
+        "textblob_polarity": 0.2655,
+        "textblob_subjectivity": 0.4745
+    },
+    "264109, 25013": {
+        "lexicon_polarity": 0.3112,
+        "textblob_polarity": 0.2292,
+        "textblob_subjectivity": 0.6318
+    },
+    "287038, 25013": {
+        "lexicon_polarity": 0.2989,
+        "textblob_polarity": 0.2224,
+        "textblob_subjectivity": 0.5119
+    },
+    "265477, 25013": {
+        "lexicon_polarity": 0.0347,
+        "textblob_polarity": 0.0512,
+        "textblob_subjectivity": 0.5593
+    },
+    "205435, 25013": {
+        "lexicon_polarity": 0.2017,
+        "textblob_polarity": 0.1744,
+        "textblob_subjectivity": 0.4908
+    },
+    "187679, 25013": {
+        "lexicon_polarity": 0.2347,
+        "textblob_polarity": 0.2186,
+        "textblob_subjectivity": 0.5545
+    },
+    "181904, 25013": {
+        "lexicon_polarity": 0.508,
+        "textblob_polarity": 0.3623,
+        "textblob_subjectivity": 0.4933
+    },
+    "193975, 25013": {
+        "lexicon_polarity": 0.1318,
+        "textblob_polarity": 0.1327,
+        "textblob_subjectivity": 0.5156
+    },
+    "193177, 25013": {
+        "lexicon_polarity": 0.2584,
+        "textblob_polarity": 0.1879,
+        "textblob_subjectivity": 0.5009
+    },
+    "194564, 25013": {
+        "lexicon_polarity": 0.2544,
+        "textblob_polarity": 0.2091,
+        "textblob_subjectivity": 0.5066
+    },
+    "195397, 25013": {
+        "lexicon_polarity": 0.3401,
+        "textblob_polarity": 0.2265,
+        "textblob_subjectivity": 0.484
+    },
+    "183316, 25013": {
+        "lexicon_polarity": 0.3559,
+        "textblob_polarity": 0.2563,
+        "textblob_subjectivity": 0.5024
+    },
+    "202691, 25013": {
+        "lexicon_polarity": 0.1036,
+        "textblob_polarity": 0.1512,
+        "textblob_subjectivity": 0.5902
+    },
+    "176497, 25013": {
+        "lexicon_polarity": 0.3072,
+        "textblob_polarity": 0.2544,
+        "textblob_subjectivity": 0.5501
+    },
+    "206522, 25013": {
+        "lexicon_polarity": 0.2462,
+        "textblob_polarity": 0.1425,
+        "textblob_subjectivity": 0.5258
+    },
+    "185215, 25013": {
+        "lexicon_polarity": 0.0483,
+        "textblob_polarity": 0.0322,
+        "textblob_subjectivity": 0.5813
+    },
+    "173811, 25013": {
+        "lexicon_polarity": 0.1877,
+        "textblob_polarity": 0.2153,
+        "textblob_subjectivity": 0.5112
+    },
+    "186359, 25013": {
+        "lexicon_polarity": 0.5044,
+        "textblob_polarity": 0.335,
+        "textblob_subjectivity": 0.5708
+    },
+    "95989, 2759": {
+        "lexicon_polarity": 0.2569,
+        "textblob_polarity": 0.2555,
+        "textblob_subjectivity": 0.58
+    },
+    "252619, 33206": {
+        "lexicon_polarity": 0.4164,
+        "textblob_polarity": 0.4292,
+        "textblob_subjectivity": 0.4818
+    },
+    "253176, 33206": {
+        "lexicon_polarity": 0.2623,
+        "textblob_polarity": 0.2411,
+        "textblob_subjectivity": 0.5548
+    },
+    "253234, 33206": {
+        "lexicon_polarity": 0.2692,
+        "textblob_polarity": 0.1879,
+        "textblob_subjectivity": 0.5029
+    },
+    "253791, 33206": {
+        "lexicon_polarity": 0.2486,
+        "textblob_polarity": 0.1783,
+        "textblob_subjectivity": 0.66
+    },
+    "254511, 33206": {
+        "lexicon_polarity": 0.1454,
+        "textblob_polarity": 0.116,
+        "textblob_subjectivity": 0.4585
+    },
+    "256747, 33206": {
+        "lexicon_polarity": 0.2204,
+        "textblob_polarity": 0.1804,
+        "textblob_subjectivity": 0.422
+    },
+    "244731, 33206": {
+        "lexicon_polarity": 0.1736,
+        "textblob_polarity": 0.1486,
+        "textblob_subjectivity": 0.4906
+    },
+    "244789, 33206": {
+        "lexicon_polarity": 0.1837,
+        "textblob_polarity": 0.1524,
+        "textblob_subjectivity": 0.5053
+    },
+    "261501, 33206": {
+        "lexicon_polarity": 0.43,
+        "textblob_polarity": 0.2978,
+        "textblob_subjectivity": 0.5356
+    },
+    "245604, 33206": {
+        "lexicon_polarity": 0.1306,
+        "textblob_polarity": 0.1011,
+        "textblob_subjectivity": 0.4633
+    },
+    "263706, 33206": {
+        "lexicon_polarity": 0.3282,
+        "textblob_polarity": 0.2715,
+        "textblob_subjectivity": 0.5319
+    },
+    "263930, 33206": {
+        "lexicon_polarity": 0.2414,
+        "textblob_polarity": 0.219,
+        "textblob_subjectivity": 0.5105
+    },
+    "265007, 33206": {
+        "lexicon_polarity": 0.3019,
+        "textblob_polarity": 0.2325,
+        "textblob_subjectivity": 0.501
+    },
+    "301620, 33206": {
+        "lexicon_polarity": 0.2288,
+        "textblob_polarity": 0.3159,
+        "textblob_subjectivity": 0.5443
+    },
+    "249598, 33206": {
+        "lexicon_polarity": 0.2179,
+        "textblob_polarity": 0.1908,
+        "textblob_subjectivity": 0.4697
+    },
+    "303297, 33206": {
+        "lexicon_polarity": 0.318,
+        "textblob_polarity": 0.2326,
+        "textblob_subjectivity": 0.5491
+    },
+    "270160, 33206": {
+        "lexicon_polarity": 0.1407,
+        "textblob_polarity": 0.099,
+        "textblob_subjectivity": 0.5924
+    },
+    "270661, 33206": {
+        "lexicon_polarity": 0.3393,
+        "textblob_polarity": 0.3283,
+        "textblob_subjectivity": 0.587
+    },
+    "155225, 237": {
+        "lexicon_polarity": -0.0235,
+        "textblob_polarity": 0.0239,
+        "textblob_subjectivity": 0.5752
+    },
+    "182423, 237": {
+        "lexicon_polarity": 0.3289,
+        "textblob_polarity": 0.2504,
+        "textblob_subjectivity": 0.4949
+    },
+    "187581, 237": {
+        "lexicon_polarity": 0.3359,
+        "textblob_polarity": 0.2634,
+        "textblob_subjectivity": 0.5181
+    },
+    "53057, 237": {
+        "lexicon_polarity": 0.2733,
+        "textblob_polarity": 0.196,
+        "textblob_subjectivity": 0.5387
+    },
+    "6806, 237": {
+        "lexicon_polarity": 0.6278,
+        "textblob_polarity": 0.4962,
+        "textblob_subjectivity": 0.6396
+    },
+    "189815, 237": {
+        "lexicon_polarity": 0.1892,
+        "textblob_polarity": 0.1664,
+        "textblob_subjectivity": 0.4768
+    },
+    "8023, 237": {
+        "lexicon_polarity": 0.0669,
+        "textblob_polarity": 0.1493,
+        "textblob_subjectivity": 0.542
+    },
+    "271324, 33206": {
+        "lexicon_polarity": 0.2508,
+        "textblob_polarity": 0.1886,
+        "textblob_subjectivity": 0.5344
+    },
+    "6091, 237": {
+        "lexicon_polarity": 0.2565,
+        "textblob_polarity": 0.2531,
+        "textblob_subjectivity": 0.464
+    },
+    "1869, 237": {
+        "lexicon_polarity": 0.2536,
+        "textblob_polarity": 0.29,
+        "textblob_subjectivity": 0.6533
+    },
+    "184278, 237": {
+        "lexicon_polarity": 0.1917,
+        "textblob_polarity": 0.1772,
+        "textblob_subjectivity": 0.5302
+    },
+    "10939, 237": {
+        "lexicon_polarity": 0.1779,
+        "textblob_polarity": 0.1273,
+        "textblob_subjectivity": 0.5549
+    },
+    "256331, 237": {
+        "lexicon_polarity": 0.1437,
+        "textblob_polarity": 0.1242,
+        "textblob_subjectivity": 0.5153
+    },
+    "249553, 237": {
+        "lexicon_polarity": 0.3138,
+        "textblob_polarity": 0.2619,
+        "textblob_subjectivity": 0.5579
+    },
+    "15104, 237": {
+        "lexicon_polarity": 0.3047,
+        "textblob_polarity": 0.1819,
+        "textblob_subjectivity": 0.5096
+    },
+    "1772, 237": {
+        "lexicon_polarity": 0.1095,
+        "textblob_polarity": 0.1296,
+        "textblob_subjectivity": 0.4127
+    },
+    "195803, 237": {
+        "lexicon_polarity": 0.1133,
+        "textblob_polarity": 0.1041,
+        "textblob_subjectivity": 0.5164
+    },
+    "212333, 237": {
+        "lexicon_polarity": 0.4667,
+        "textblob_polarity": 0.3951,
+        "textblob_subjectivity": 0.6535
+    },
+    "194420, 237": {
+        "lexicon_polarity": 0.1449,
+        "textblob_polarity": 0.1062,
+        "textblob_subjectivity": 0.4634
+    },
+    "260817, 2034": {
+        "lexicon_polarity": 0.3488,
+        "textblob_polarity": 0.2465,
+        "textblob_subjectivity": 0.586
+    },
+    "324618, 2034": {
+        "lexicon_polarity": 0.2338,
+        "textblob_polarity": 0.1526,
+        "textblob_subjectivity": 0.4077
+    },
+    "242571, 2034": {
+        "lexicon_polarity": 0.1342,
+        "textblob_polarity": 0.1573,
+        "textblob_subjectivity": 0.5364
+    },
+    "244398, 2034": {
+        "lexicon_polarity": 0.153,
+        "textblob_polarity": 0.0721,
+        "textblob_subjectivity": 0.6006
+    },
+    "210149, 2034": {
+        "lexicon_polarity": 0.1262,
+        "textblob_polarity": 0.0847,
+        "textblob_subjectivity": 0.5133
+    },
+    "149487, 2034": {
+        "lexicon_polarity": 0.3394,
+        "textblob_polarity": 0.3454,
+        "textblob_subjectivity": 0.5721
+    },
+    "155213, 2034": {
+        "lexicon_polarity": 0.2718,
+        "textblob_polarity": 0.2473,
+        "textblob_subjectivity": 0.6516
+    },
+    "217223, 2034": {
+        "lexicon_polarity": 0.2778,
+        "textblob_polarity": 0.2152,
+        "textblob_subjectivity": 0.5016
+    },
+    "5220, 2034": {
+        "lexicon_polarity": 0.2825,
+        "textblob_polarity": 0.2379,
+        "textblob_subjectivity": 0.541
+    },
+    "7323, 2034": {
+        "lexicon_polarity": 0.2106,
+        "textblob_polarity": 0.1763,
+        "textblob_subjectivity": 0.6006
+    },
+    "20810, 2034": {
+        "lexicon_polarity": 0.3721,
+        "textblob_polarity": 0.3953,
+        "textblob_subjectivity": 0.5179
+    },
+    "43725, 2034": {
+        "lexicon_polarity": 0.2411,
+        "textblob_polarity": 0.2077,
+        "textblob_subjectivity": 0.5104
+    },
+    "44495, 2034": {
+        "lexicon_polarity": 0.3078,
+        "textblob_polarity": 0.1096,
+        "textblob_subjectivity": 0.5502
+    },
+    "48655, 2034": {
+        "lexicon_polarity": 0.2414,
+        "textblob_polarity": 0.1857,
+        "textblob_subjectivity": 0.553
+    },
+    "35405, 2034": {
+        "lexicon_polarity": 0.5243,
+        "textblob_polarity": 0.3882,
+        "textblob_subjectivity": 0.5967
+    },
+    "31204, 2034": {
+        "lexicon_polarity": 0.2288,
+        "textblob_polarity": 0.1879,
+        "textblob_subjectivity": 0.5676
+    },
+    "26018, 2034": {
+        "lexicon_polarity": 0.2872,
+        "textblob_polarity": 0.2872,
+        "textblob_subjectivity": 0.4628
+    },
+    "26666, 2034": {
+        "lexicon_polarity": 0.391,
+        "textblob_polarity": 0.3788,
+        "textblob_subjectivity": 0.56
+    },
+    "19552, 2034": {
+        "lexicon_polarity": 0.125,
+        "textblob_polarity": 0.0333,
+        "textblob_subjectivity": 0.4729
+    },
+    "30314, 2034": {
+        "lexicon_polarity": 0.1047,
+        "textblob_polarity": 0.0945,
+        "textblob_subjectivity": 0.484
+    },
+    "294063, 25013": {
+        "lexicon_polarity": 0.2084,
+        "textblob_polarity": 0.1883,
+        "textblob_subjectivity": 0.5203
+    },
+    "294320, 25013": {
+        "lexicon_polarity": 0.1177,
+        "textblob_polarity": 0.0841,
+        "textblob_subjectivity": 0.4248
+    },
+    "271541, 25013": {
+        "lexicon_polarity": 0.0371,
+        "textblob_polarity": 0.1234,
+        "textblob_subjectivity": 0.5168
+    },
+    "277991, 25013": {
+        "lexicon_polarity": 0.2897,
+        "textblob_polarity": 0.2332,
+        "textblob_subjectivity": 0.5548
+    },
+    "229254, 25013": {
+        "lexicon_polarity": 0.174,
+        "textblob_polarity": 0.1685,
+        "textblob_subjectivity": 0.5248
+    },
+    "190944, 25013": {
+        "lexicon_polarity": 0.2444,
+        "textblob_polarity": 0.2239,
+        "textblob_subjectivity": 0.5604
+    },
+    "188389, 25013": {
+        "lexicon_polarity": 0.0965,
+        "textblob_polarity": 0.0972,
+        "textblob_subjectivity": 0.5212
+    },
+    "213106, 25013": {
+        "lexicon_polarity": 0.3843,
+        "textblob_polarity": 0.3913,
+        "textblob_subjectivity": 0.5916
+    },
+    "196354, 25013": {
+        "lexicon_polarity": 0.4442,
+        "textblob_polarity": 0.3729,
+        "textblob_subjectivity": 0.5435
+    },
+    "191126, 25013": {
+        "lexicon_polarity": 0.3621,
+        "textblob_polarity": 0.3037,
+        "textblob_subjectivity": 0.5298
+    },
+    "189337, 25013": {
+        "lexicon_polarity": 0.3099,
+        "textblob_polarity": 0.2464,
+        "textblob_subjectivity": 0.4203
+    },
+    "218367, 25013": {
+        "lexicon_polarity": 0.2734,
+        "textblob_polarity": 0.2029,
+        "textblob_subjectivity": 0.5609
+    },
+    "174695, 25013": {
+        "lexicon_polarity": 0.0406,
+        "textblob_polarity": 0.1297,
+        "textblob_subjectivity": 0.4952
+    },
+    "207523, 25013": {
+        "lexicon_polarity": 0.4463,
+        "textblob_polarity": 0.3438,
+        "textblob_subjectivity": 0.6062
+    },
+    "183943, 25013": {
+        "lexicon_polarity": 0.2715,
+        "textblob_polarity": 0.2114,
+        "textblob_subjectivity": 0.6312
+    },
+    "188220, 25013": {
+        "lexicon_polarity": 0.1889,
+        "textblob_polarity": 0.1966,
+        "textblob_subjectivity": 0.6583
+    },
+    "185680, 25013": {
+        "lexicon_polarity": 0.2137,
+        "textblob_polarity": 0.2848,
+        "textblob_subjectivity": 0.5346
+    },
+    "185484, 25013": {
+        "lexicon_polarity": 0.0929,
+        "textblob_polarity": 0.1032,
+        "textblob_subjectivity": 0.6216
+    },
+    "203793, 25013": {
+        "lexicon_polarity": 0.2736,
+        "textblob_polarity": 0.2169,
+        "textblob_subjectivity": 0.5457
+    },
+    "44981, 2759": {
+        "lexicon_polarity": 0.3,
+        "textblob_polarity": 0.181,
+        "textblob_subjectivity": 0.6143
+    },
+    "55773, 2759": {
+        "lexicon_polarity": 0.1683,
+        "textblob_polarity": 0.1567,
+        "textblob_subjectivity": 0.6171
+    },
+    "20737, 2759": {
+        "lexicon_polarity": 0.3058,
+        "textblob_polarity": 0.3033,
+        "textblob_subjectivity": 0.5309
+    },
+    "138613, 2759": {
+        "lexicon_polarity": 0.4425,
+        "textblob_polarity": 0.3909,
+        "textblob_subjectivity": 0.4681
+    },
+    "4908, 2759": {
+        "lexicon_polarity": 0.2481,
+        "textblob_polarity": 0.2294,
+        "textblob_subjectivity": 0.5772
+    },
+    "76535, 2759": {
+        "lexicon_polarity": 0.2706,
+        "textblob_polarity": 0.179,
+        "textblob_subjectivity": 0.4712
+    },
+    "4948, 2759": {
+        "lexicon_polarity": 0.2897,
+        "textblob_polarity": 0.1988,
+        "textblob_subjectivity": 0.5548
+    },
+    "5908, 2759": {
+        "lexicon_polarity": 0.1799,
+        "textblob_polarity": 0.1349,
+        "textblob_subjectivity": 0.5682
+    },
+    "92067, 2759": {
+        "lexicon_polarity": 0.5,
+        "textblob_polarity": 0.4111,
+        "textblob_subjectivity": 0.4833
+    },
+    "6060, 2759": {
+        "lexicon_polarity": 0.2289,
+        "textblob_polarity": 0.1832,
+        "textblob_subjectivity": 0.4426
+    },
+    "231229, 2759": {
+        "lexicon_polarity": 0.2097,
+        "textblob_polarity": 0.2047,
+        "textblob_subjectivity": 0.4763
+    },
+    "175313, 2759": {
+        "lexicon_polarity": 0.207,
+        "textblob_polarity": 0.1931,
+        "textblob_subjectivity": 0.5457
+    },
+    "293965, 2759": {
+        "lexicon_polarity": 0.2375,
+        "textblob_polarity": 0.212,
+        "textblob_subjectivity": 0.4857
+    },
+    "249716, 2759": {
+        "lexicon_polarity": 0.1568,
+        "textblob_polarity": 0.1441,
+        "textblob_subjectivity": 0.4746
+    },
+    "36481, 2759": {
+        "lexicon_polarity": 0.1715,
+        "textblob_polarity": 0.1416,
+        "textblob_subjectivity": 0.5188
+    },
+    "27013, 2759": {
+        "lexicon_polarity": 0.3333,
+        "textblob_polarity": 0.3237,
+        "textblob_subjectivity": 0.5923
+    },
+    "203738, 2759": {
+        "lexicon_polarity": 0.3658,
+        "textblob_polarity": 0.248,
+        "textblob_subjectivity": 0.5106
+    },
+    "256826, 2759": {
+        "lexicon_polarity": 0.1106,
+        "textblob_polarity": 0.0467,
+        "textblob_subjectivity": 0.355
+    },
+    "32043, 3167": {
+        "lexicon_polarity": 0.327,
+        "textblob_polarity": 0.1971,
+        "textblob_subjectivity": 0.3271
+    },
+    "242699, 33206": {
+        "lexicon_polarity": 0.2096,
+        "textblob_polarity": 0.1598,
+        "textblob_subjectivity": 0.4852
+    },
+    "275260, 33206": {
+        "lexicon_polarity": 0.4231,
+        "textblob_polarity": 0.3472,
+        "textblob_subjectivity": 0.5865
+    },
+    "243993, 33206": {
+        "lexicon_polarity": 0.0976,
+        "textblob_polarity": 0.0831,
+        "textblob_subjectivity": 0.543
+    },
+    "277627, 33206": {
+        "lexicon_polarity": 0.228,
+        "textblob_polarity": 0.216,
+        "textblob_subjectivity": 0.5649
+    },
+    "244710, 33206": {
+        "lexicon_polarity": 0.164,
+        "textblob_polarity": 0.1364,
+        "textblob_subjectivity": 0.52
+    },
+    "278224, 33206": {
+        "lexicon_polarity": 0.4023,
+        "textblob_polarity": 0.3129,
+        "textblob_subjectivity": 0.5534
+    },
+    "245404, 33206": {
+        "lexicon_polarity": 0.1888,
+        "textblob_polarity": 0.1382,
+        "textblob_subjectivity": 0.5223
+    },
+    "315683, 33206": {
+        "lexicon_polarity": 0.3143,
+        "textblob_polarity": 0.2811,
+        "textblob_subjectivity": 0.5569
+    },
+    "246470, 33206": {
+        "lexicon_polarity": 0.2367,
+        "textblob_polarity": 0.164,
+        "textblob_subjectivity": 0.5156
+    },
+    "318874, 33206": {
+        "lexicon_polarity": 0.2834,
+        "textblob_polarity": 0.2754,
+        "textblob_subjectivity": 0.5277
+    },
+    "259402, 33206": {
+        "lexicon_polarity": 0.2585,
+        "textblob_polarity": 0.2176,
+        "textblob_subjectivity": 0.6637
+    },
+    "247118, 33206": {
+        "lexicon_polarity": 0.1953,
+        "textblob_polarity": 0.1781,
+        "textblob_subjectivity": 0.516
+    },
+    "259798, 33206": {
+        "lexicon_polarity": 0.0908,
+        "textblob_polarity": 0.1069,
+        "textblob_subjectivity": 0.5435
+    },
+    "284302, 33206": {
+        "lexicon_polarity": 0.0023,
+        "textblob_polarity": 0.0399,
+        "textblob_subjectivity": 0.4808
+    },
+    "288107, 33206": {
+        "lexicon_polarity": 0.2437,
+        "textblob_polarity": 0.1951,
+        "textblob_subjectivity": 0.5546
+    },
+    "288319, 33206": {
+        "lexicon_polarity": 0.3731,
+        "textblob_polarity": 0.3107,
+        "textblob_subjectivity": 0.5714
+    },
+    "252652, 33206": {
+        "lexicon_polarity": 0.4457,
+        "textblob_polarity": 0.3776,
+        "textblob_subjectivity": 0.5018
+    },
+    "270559, 33206": {
+        "lexicon_polarity": -0.0567,
+        "textblob_polarity": -0.009,
+        "textblob_subjectivity": 0.484
+    },
+    "247169, 33206": {
+        "lexicon_polarity": 0.3328,
+        "textblob_polarity": 0.2366,
+        "textblob_subjectivity": 0.573
+    },
+    "122993, 237": {
+        "lexicon_polarity": 0.3331,
+        "textblob_polarity": 0.3714,
+        "textblob_subjectivity": 0.4973
+    },
+    "107875, 237": {
+        "lexicon_polarity": 0.2886,
+        "textblob_polarity": 0.1991,
+        "textblob_subjectivity": 0.5126
+    },
+    "290772, 237": {
+        "lexicon_polarity": 0.2571,
+        "textblob_polarity": 0.1559,
+        "textblob_subjectivity": 0.4435
+    },
+    "272500, 237": {
+        "lexicon_polarity": 0.0477,
+        "textblob_polarity": 0.0388,
+        "textblob_subjectivity": 0.5715
+    },
+    "260084, 237": {
+        "lexicon_polarity": 0.2707,
+        "textblob_polarity": 0.2577,
+        "textblob_subjectivity": 0.5196
+    },
+    "76151, 237": {
+        "lexicon_polarity": 0.2839,
+        "textblob_polarity": 0.2737,
+        "textblob_subjectivity": 0.5291
+    },
+    "195462, 237": {
+        "lexicon_polarity": 0.0319,
+        "textblob_polarity": 0.0352,
+        "textblob_subjectivity": 0.5277
+    },
+    "156789, 237": {
+        "lexicon_polarity": 0.1103,
+        "textblob_polarity": 0.0768,
+        "textblob_subjectivity": 0.4716
+    },
+    "2273, 237": {
+        "lexicon_polarity": 0.0,
+        "textblob_polarity": 0.1,
+        "textblob_subjectivity": 0.1
+    },
+    "29464, 237": {
+        "lexicon_polarity": 0.2528,
+        "textblob_polarity": 0.2153,
+        "textblob_subjectivity": 0.4891
+    },
+    "2101, 237": {
+        "lexicon_polarity": 0.2657,
+        "textblob_polarity": 0.2377,
+        "textblob_subjectivity": 0.4937
+    },
+    "282696, 237": {
+        "lexicon_polarity": 0.2491,
+        "textblob_polarity": 0.2057,
+        "textblob_subjectivity": 0.5574
+    },
+    "310929, 237": {
+        "lexicon_polarity": 0.1046,
+        "textblob_polarity": 0.0855,
+        "textblob_subjectivity": 0.5403
+    },
+    "312125, 237": {
+        "lexicon_polarity": 0.0164,
+        "textblob_polarity": 0.0394,
+        "textblob_subjectivity": 0.5215
+    },
+    "284914, 237": {
+        "lexicon_polarity": -0.0031,
+        "textblob_polarity": 0.0301,
+        "textblob_subjectivity": 0.5526
+    },
+    "76163, 237": {
+        "lexicon_polarity": 0.022,
+        "textblob_polarity": 0.0758,
+        "textblob_subjectivity": 0.5642
+    },
+    "158905, 237": {
+        "lexicon_polarity": 0.1604,
+        "textblob_polarity": 0.0845,
+        "textblob_subjectivity": 0.4119
+    },
+    "216261, 237": {
+        "lexicon_polarity": 0.2167,
+        "textblob_polarity": 0.1643,
+        "textblob_subjectivity": 0.4842
+    },
+    "3274, 237": {
+        "lexicon_polarity": 0.1755,
+        "textblob_polarity": 0.1112,
+        "textblob_subjectivity": 0.4991
+    },
+    "30169, 2034": {
+        "lexicon_polarity": 0.2568,
+        "textblob_polarity": 0.2349,
+        "textblob_subjectivity": 0.4445
+    },
+    "38983, 2034": {
+        "lexicon_polarity": 0.2179,
+        "textblob_polarity": 0.178,
+        "textblob_subjectivity": 0.5233
+    },
+    "85627, 2034": {
+        "lexicon_polarity": 0.2941,
+        "textblob_polarity": 0.2151,
+        "textblob_subjectivity": 0.5812
+    },
+    "78495, 2034": {
+        "lexicon_polarity": 0.3077,
+        "textblob_polarity": 0.254,
+        "textblob_subjectivity": 0.5267
+    },
+    "5865, 2034": {
+        "lexicon_polarity": 0.3791,
+        "textblob_polarity": 0.3451,
+        "textblob_subjectivity": 0.5976
+    },
+    "65667, 2034": {
+        "lexicon_polarity": 0.1014,
+        "textblob_polarity": 0.0727,
+        "textblob_subjectivity": 0.5469
+    },
+    "143035, 2034": {
+        "lexicon_polarity": 0.1699,
+        "textblob_polarity": 0.2198,
+        "textblob_subjectivity": 0.5226
+    },
+    "218275, 2034": {
+        "lexicon_polarity": 0.2715,
+        "textblob_polarity": 0.2242,
+        "textblob_subjectivity": 0.5765
+    },
+    "27103, 2034": {
+        "lexicon_polarity": 0.254,
+        "textblob_polarity": 0.2258,
+        "textblob_subjectivity": 0.5324
+    },
+    "155923, 2034": {
+        "lexicon_polarity": 0.2771,
+        "textblob_polarity": 0.2204,
+        "textblob_subjectivity": 0.5923
+    },
+    "195771, 2034": {
+        "lexicon_polarity": 0.45,
+        "textblob_polarity": 0.3161,
+        "textblob_subjectivity": 0.4858
+    },
+    "17709, 2034": {
+        "lexicon_polarity": -0.1326,
+        "textblob_polarity": -0.0067,
+        "textblob_subjectivity": 0.4933
+    },
+    "131419, 2034": {
+        "lexicon_polarity": 0.1592,
+        "textblob_polarity": 0.097,
+        "textblob_subjectivity": 0.3319
+    },
+    "54639, 2034": {
+        "lexicon_polarity": 0.1517,
+        "textblob_polarity": 0.1259,
+        "textblob_subjectivity": 0.5315
+    },
+    "179786, 2034": {
+        "lexicon_polarity": 0.1042,
+        "textblob_polarity": 0.1063,
+        "textblob_subjectivity": 0.4957
+    },
+    "298186, 2034": {
+        "lexicon_polarity": 0.2277,
+        "textblob_polarity": 0.2108,
+        "textblob_subjectivity": 0.4476
+    },
+    "312269, 2034": {
+        "lexicon_polarity": 0.2798,
+        "textblob_polarity": 0.2256,
+        "textblob_subjectivity": 0.5175
+    },
+    "67913, 2034": {
+        "lexicon_polarity": 0.4013,
+        "textblob_polarity": 0.4036,
+        "textblob_subjectivity": 0.6059
+    },
+    "104577, 2034": {
+        "lexicon_polarity": 0.2073,
+        "textblob_polarity": 0.228,
+        "textblob_subjectivity": 0.6094
+    },
+    "20150, 2034": {
+        "lexicon_polarity": 0.1631,
+        "textblob_polarity": 0.1043,
+        "textblob_subjectivity": 0.5396
+    },
+    "314994, 25013": {
+        "lexicon_polarity": 0.2,
+        "textblob_polarity": 0.1405,
+        "textblob_subjectivity": 0.4894
+    },
+    "205857, 25013": {
+        "lexicon_polarity": 0.3453,
+        "textblob_polarity": 0.3342,
+        "textblob_subjectivity": 0.5534
+    },
+    "189641, 25013": {
+        "lexicon_polarity": 0.1486,
+        "textblob_polarity": 0.1209,
+        "textblob_subjectivity": 0.5378
+    },
+    "183265, 25013": {
+        "lexicon_polarity": 0.2973,
+        "textblob_polarity": 0.198,
+        "textblob_subjectivity": 0.509
+    },
+    "278853, 25013": {
+        "lexicon_polarity": 0.2013,
+        "textblob_polarity": 0.1329,
+        "textblob_subjectivity": 0.4955
+    },
+    "280619, 25013": {
+        "lexicon_polarity": 0.2722,
+        "textblob_polarity": 0.2876,
+        "textblob_subjectivity": 0.5149
+    },
+    "298789, 25013": {
+        "lexicon_polarity": 0.245,
+        "textblob_polarity": 0.2615,
+        "textblob_subjectivity": 0.5323
+    },
+    "181664, 25013": {
+        "lexicon_polarity": 0.2685,
+        "textblob_polarity": 0.2567,
+        "textblob_subjectivity": 0.5183
+    },
+    "309749, 25013": {
+        "lexicon_polarity": 0.0786,
+        "textblob_polarity": 0.0731,
+        "textblob_subjectivity": 0.5272
+    },
+    "168259, 25013": {
+        "lexicon_polarity": 0.1583,
+        "textblob_polarity": 0.2044,
+        "textblob_subjectivity": 0.6153
+    },
+    "184693, 25013": {
+        "lexicon_polarity": 0.2241,
+        "textblob_polarity": 0.1766,
+        "textblob_subjectivity": 0.4972
+    },
+    "185351, 25013": {
+        "lexicon_polarity": 0.3839,
+        "textblob_polarity": 0.2957,
+        "textblob_subjectivity": 0.6736
+    },
+    "182113, 25013": {
+        "lexicon_polarity": 0.1818,
+        "textblob_polarity": 0.1809,
+        "textblob_subjectivity": 0.4963
+    },
+    "183474, 25013": {
+        "lexicon_polarity": 0.2271,
+        "textblob_polarity": 0.2032,
+        "textblob_subjectivity": 0.4887
+    },
+    "238066, 25013": {
+        "lexicon_polarity": 0.2907,
+        "textblob_polarity": 0.21,
+        "textblob_subjectivity": 0.5756
+    },
+    "183370, 25013": {
+        "lexicon_polarity": 0.2229,
+        "textblob_polarity": 0.197,
+        "textblob_subjectivity": 0.5036
+    },
+    "190588, 25013": {
+        "lexicon_polarity": 0.3284,
+        "textblob_polarity": 0.2852,
+        "textblob_subjectivity": 0.5708
+    },
+    "200999, 25013": {
+        "lexicon_polarity": 0.1643,
+        "textblob_polarity": 0.1461,
+        "textblob_subjectivity": 0.4924
+    },
+    "181802, 25013": {
+        "lexicon_polarity": 0.1333,
+        "textblob_polarity": 0.0979,
+        "textblob_subjectivity": 0.5081
+    },
+    "91659, 5365": {
+        "lexicon_polarity": 0.3269,
+        "textblob_polarity": 0.3886,
+        "textblob_subjectivity": 0.6
+    },
+    "240906, 5365": {
+        "lexicon_polarity": 0.2611,
+        "textblob_polarity": 0.1629,
+        "textblob_subjectivity": 0.4744
+    },
+    "251602, 5365": {
+        "lexicon_polarity": 0.2455,
+        "textblob_polarity": 0.1243,
+        "textblob_subjectivity": 0.5184
+    },
+    "71269, 5365": {
+        "lexicon_polarity": 0.4667,
+        "textblob_polarity": 0.34,
+        "textblob_subjectivity": 0.58
+    },
+    "281310, 5365": {
+        "lexicon_polarity": 0.3508,
+        "textblob_polarity": 0.2224,
+        "textblob_subjectivity": 0.5159
+    },
+    "240907, 5365": {
+        "lexicon_polarity": 0.0638,
+        "textblob_polarity": 0.0362,
+        "textblob_subjectivity": 0.5536
+    },
+    "26071, 5365": {
+        "lexicon_polarity": -0.0639,
+        "textblob_polarity": -0.0159,
+        "textblob_subjectivity": 0.5128
+    },
+    "233675, 5365": {
+        "lexicon_polarity": 0.4348,
+        "textblob_polarity": 0.2746,
+        "textblob_subjectivity": 0.5623
+    },
+    "232016, 5365": {
+        "lexicon_polarity": 0.0911,
+        "textblob_polarity": 0.0837,
+        "textblob_subjectivity": 0.5023
+    },
+    "320724, 5365": {
+        "lexicon_polarity": 0.266,
+        "textblob_polarity": 0.1837,
+        "textblob_subjectivity": 0.4586
+    },
+    "242398, 5365": {
+        "lexicon_polarity": 0.0286,
+        "textblob_polarity": 0.0991,
+        "textblob_subjectivity": 0.5212
+    },
+    "269621, 5365": {
+        "lexicon_polarity": -0.0614,
+        "textblob_polarity": -0.1212,
+        "textblob_subjectivity": 0.4142
+    },
+    "123365, 2759": {
+        "lexicon_polarity": 0.0978,
+        "textblob_polarity": 0.1308,
+        "textblob_subjectivity": 0.2921
+    },
+    "89795, 2759": {
+        "lexicon_polarity": 0.1354,
+        "textblob_polarity": 0.1706,
+        "textblob_subjectivity": 0.5997
+    },
+    "22729, 2759": {
+        "lexicon_polarity": -0.1212,
+        "textblob_polarity": -0.1067,
+        "textblob_subjectivity": 0.5301
+    },
+    "29923, 2759": {
+        "lexicon_polarity": 0.2366,
+        "textblob_polarity": 0.2072,
+        "textblob_subjectivity": 0.5004
+    },
+    "280467, 2759": {
+        "lexicon_polarity": 0.2095,
+        "textblob_polarity": 0.1738,
+        "textblob_subjectivity": 0.45
+    },
+    "123601, 2759": {
+        "lexicon_polarity": 0.2291,
+        "textblob_polarity": 0.1728,
+        "textblob_subjectivity": 0.4862
+    },
+    "211985, 2759": {
+        "lexicon_polarity": 0.1002,
+        "textblob_polarity": 0.1377,
+        "textblob_subjectivity": 0.4097
+    },
+    "224172, 2759": {
+        "lexicon_polarity": 0.2206,
+        "textblob_polarity": 0.1606,
+        "textblob_subjectivity": 0.4624
+    },
+    "186750, 2759": {
+        "lexicon_polarity": 0.2532,
+        "textblob_polarity": 0.218,
+        "textblob_subjectivity": 0.4787
+    },
+    "66533, 2759": {
+        "lexicon_polarity": 0.1914,
+        "textblob_polarity": 0.1923,
+        "textblob_subjectivity": 0.4698
+    },
+    "300326, 2759": {
+        "lexicon_polarity": 0.2342,
+        "textblob_polarity": 0.156,
+        "textblob_subjectivity": 0.6058
+    },
+    "32748, 2759": {
+        "lexicon_polarity": 0.0161,
+        "textblob_polarity": -0.0143,
+        "textblob_subjectivity": 0.5743
+    },
+    "4678, 2759": {
+        "lexicon_polarity": 0.3784,
+        "textblob_polarity": 0.308,
+        "textblob_subjectivity": 0.5479
+    },
+    "8165, 2759": {
+        "lexicon_polarity": 0.1693,
+        "textblob_polarity": 0.1463,
+        "textblob_subjectivity": 0.4375
+    },
+    "286130, 2759": {
+        "lexicon_polarity": 0.0975,
+        "textblob_polarity": 0.1366,
+        "textblob_subjectivity": 0.3704
+    },
+    "288019, 2759": {
+        "lexicon_polarity": 0.2639,
+        "textblob_polarity": 0.2072,
+        "textblob_subjectivity": 0.5393
+    },
+    "97277, 2759": {
+        "lexicon_polarity": 0.2538,
+        "textblob_polarity": 0.2958,
+        "textblob_subjectivity": 0.5949
+    },
+    "260262, 2759": {
+        "lexicon_polarity": 0.2308,
+        "textblob_polarity": 0.1649,
+        "textblob_subjectivity": 0.4457
+    },
+    "264768, 15059": {
+        "lexicon_polarity": 0.2453,
+        "textblob_polarity": 0.1745,
+        "textblob_subjectivity": 0.4957
+    },
+    "268637, 15059": {
+        "lexicon_polarity": 0.1671,
+        "textblob_polarity": 0.0915,
+        "textblob_subjectivity": 0.5787
+    },
+    "254705, 15059": {
+        "lexicon_polarity": 0.0707,
+        "textblob_polarity": 0.0833,
+        "textblob_subjectivity": 0.506
+    },
+    "221485, 15059": {
+        "lexicon_polarity": 0.1881,
+        "textblob_polarity": 0.1236,
+        "textblob_subjectivity": 0.568
+    },
+    "153569, 15059": {
+        "lexicon_polarity": 0.198,
+        "textblob_polarity": 0.2023,
+        "textblob_subjectivity": 0.4633
+    },
+    "238756, 15059": {
+        "lexicon_polarity": 0.1638,
+        "textblob_polarity": 0.1214,
+        "textblob_subjectivity": 0.3852
+    },
+    "250825, 3167": {
+        "lexicon_polarity": 0.5,
+        "textblob_polarity": 0.2429,
+        "textblob_subjectivity": 0.4571
+    },
+    "135005, 3167": {
+        "lexicon_polarity": 0.303,
+        "textblob_polarity": 0.2401,
+        "textblob_subjectivity": 0.5253
+    },
+    "72407, 3167": {
+        "lexicon_polarity": 0.2478,
+        "textblob_polarity": 0.2096,
+        "textblob_subjectivity": 0.4547
+    },
+    "231552, 3167": {
+        "lexicon_polarity": 0.2473,
+        "textblob_polarity": 0.2241,
+        "textblob_subjectivity": 0.4962
+    },
+    "217505, 3167": {
+        "lexicon_polarity": 0.1273,
+        "textblob_polarity": 0.1663,
+        "textblob_subjectivity": 0.4944
+    },
+    "235729, 3167": {
+        "lexicon_polarity": 0.0228,
+        "textblob_polarity": 0.0365,
+        "textblob_subjectivity": 0.5394
+    },
+    "208025, 3167": {
+        "lexicon_polarity": 0.2125,
+        "textblob_polarity": 0.1771,
+        "textblob_subjectivity": 0.5028
+    },
+    "217351, 3167": {
+        "lexicon_polarity": 0.0182,
+        "textblob_polarity": 0.262,
+        "textblob_subjectivity": 0.6194
+    },
+    "69367, 3167": {
+        "lexicon_polarity": 0.2301,
+        "textblob_polarity": 0.2038,
+        "textblob_subjectivity": 0.5128
+    },
+    "119411, 3167": {
+        "lexicon_polarity": 0.2937,
+        "textblob_polarity": 0.206,
+        "textblob_subjectivity": 0.4044
+    },
+    "204501, 3167": {
+        "lexicon_polarity": 0.2255,
+        "textblob_polarity": 0.264,
+        "textblob_subjectivity": 0.5481
+    },
+    "145481, 3167": {
+        "lexicon_polarity": 0.2538,
+        "textblob_polarity": 0.1912,
+        "textblob_subjectivity": 0.4775
+    },
+    "322319, 3167": {
+        "lexicon_polarity": 0.0839,
+        "textblob_polarity": 0.1061,
+        "textblob_subjectivity": 0.3572
+    },
+    "173387, 3167": {
+        "lexicon_polarity": 0.2458,
+        "textblob_polarity": 0.1971,
+        "textblob_subjectivity": 0.4933
+    },
+    "42639, 3167": {
+        "lexicon_polarity": 0.3167,
+        "textblob_polarity": 0.0688,
+        "textblob_subjectivity": 0.4615
+    },
+    "18258, 3167": {
+        "lexicon_polarity": 0.2333,
+        "textblob_polarity": 0.18,
+        "textblob_subjectivity": 0.5633
+    },
+    "281068, 3167": {
+        "lexicon_polarity": 0.1818,
+        "textblob_polarity": 0.2753,
+        "textblob_subjectivity": 0.4667
+    },
+    "238748, 3167": {
+        "lexicon_polarity": 0.1826,
+        "textblob_polarity": 0.1433,
+        "textblob_subjectivity": 0.52
+    },
+    "20372, 3167": {
+        "lexicon_polarity": 0.1647,
+        "textblob_polarity": 0.1957,
+        "textblob_subjectivity": 0.5565
+    },
+    "8830, 3167": {
+        "lexicon_polarity": 0.2827,
+        "textblob_polarity": 0.0838,
+        "textblob_subjectivity": 0.7173
+    },
+    "274105, 33206": {
+        "lexicon_polarity": 0.2419,
+        "textblob_polarity": 0.1856,
+        "textblob_subjectivity": 0.5571
+    },
+    "277462, 33206": {
+        "lexicon_polarity": 0.0651,
+        "textblob_polarity": 0.1218,
+        "textblob_subjectivity": 0.6287
+    },
+    "261361, 33206": {
+        "lexicon_polarity": 0.0663,
+        "textblob_polarity": 0.1155,
+        "textblob_subjectivity": 0.5254
+    },
+    "280746, 33206": {
+        "lexicon_polarity": 0.304,
+        "textblob_polarity": 0.2461,
+        "textblob_subjectivity": 0.5815
+    },
+    "281272, 33206": {
+        "lexicon_polarity": 0.1761,
+        "textblob_polarity": 0.0639,
+        "textblob_subjectivity": 0.5051
+    },
+    "306380, 33206": {
+        "lexicon_polarity": 0.1735,
+        "textblob_polarity": 0.1288,
+        "textblob_subjectivity": 0.4799
+    },
+    "244701, 33206": {
+        "lexicon_polarity": 0.2619,
+        "textblob_polarity": 0.2291,
+        "textblob_subjectivity": 0.5097
+    },
+    "244777, 33206": {
+        "lexicon_polarity": 0.2718,
+        "textblob_polarity": 0.2285,
+        "textblob_subjectivity": 0.5363
+    },
+    "246182, 33206": {
+        "lexicon_polarity": 0.2866,
+        "textblob_polarity": 0.2302,
+        "textblob_subjectivity": 0.5108
+    },
+    "246961, 33206": {
+        "lexicon_polarity": 0.1594,
+        "textblob_polarity": 0.1391,
+        "textblob_subjectivity": 0.5655
+    },
+    "313512, 33206": {
+        "lexicon_polarity": 0.2018,
+        "textblob_polarity": 0.1038,
+        "textblob_subjectivity": 0.4802
+    },
+    "241545, 33206": {
+        "lexicon_polarity": 0.293,
+        "textblob_polarity": 0.2,
+        "textblob_subjectivity": 0.5216
+    },
+    "242563, 33206": {
+        "lexicon_polarity": 0.0979,
+        "textblob_polarity": 0.1129,
+        "textblob_subjectivity": 0.6638
+    },
+    "288300, 33206": {
+        "lexicon_polarity": 0.0461,
+        "textblob_polarity": 0.0655,
+        "textblob_subjectivity": 0.6668
+    },
+    "271556, 33206": {
+        "lexicon_polarity": 0.1615,
+        "textblob_polarity": 0.1631,
+        "textblob_subjectivity": 0.448
+    },
+    "241474, 33206": {
+        "lexicon_polarity": 0.2322,
+        "textblob_polarity": 0.2249,
+        "textblob_subjectivity": 0.6127
+    },
+    "241598, 33206": {
+        "lexicon_polarity": 0.2884,
+        "textblob_polarity": 0.2164,
+        "textblob_subjectivity": 0.5589
+    },
+    "242150, 33206": {
+        "lexicon_polarity": 0.18,
+        "textblob_polarity": 0.2493,
+        "textblob_subjectivity": 0.5921
+    },
+    "303815, 33206": {
+        "lexicon_polarity": 0.1785,
+        "textblob_polarity": 0.1724,
+        "textblob_subjectivity": 0.6132
+    },
+    "197889, 11123": {
+        "lexicon_polarity": 0.212,
+        "textblob_polarity": 0.1751,
+        "textblob_subjectivity": 0.4865
+    },
+    "107349, 11123": {
+        "lexicon_polarity": 0.0469,
+        "textblob_polarity": 0.0234,
+        "textblob_subjectivity": 0.5286
+    },
+    "280048, 11123": {
+        "lexicon_polarity": 0.58,
+        "textblob_polarity": 0.4875,
+        "textblob_subjectivity": 0.5375
+    },
+    "293096, 11123": {
+        "lexicon_polarity": 0.1895,
+        "textblob_polarity": 0.151,
+        "textblob_subjectivity": 0.4454
+    },
+    "52201, 11123": {
+        "lexicon_polarity": 0.173,
+        "textblob_polarity": 0.2391,
+        "textblob_subjectivity": 0.5016
+    },
+    "229680, 11123": {
+        "lexicon_polarity": 0.2496,
+        "textblob_polarity": 0.1993,
+        "textblob_subjectivity": 0.5182
+    },
+    "285049, 11123": {
+        "lexicon_polarity": 0.3039,
+        "textblob_polarity": 0.2366,
+        "textblob_subjectivity": 0.5029
+    },
+    "50083, 11123": {
+        "lexicon_polarity": 0.3559,
+        "textblob_polarity": 0.1879,
+        "textblob_subjectivity": 0.4595
+    },
+    "95335, 11123": {
+        "lexicon_polarity": 0.2848,
+        "textblob_polarity": 0.1746,
+        "textblob_subjectivity": 0.5002
+    },
+    "46401, 11123": {
+        "lexicon_polarity": 0.0269,
+        "textblob_polarity": 0.0762,
+        "textblob_subjectivity": 0.5275
+    },
+    "136307, 11123": {
+        "lexicon_polarity": 0.3095,
+        "textblob_polarity": 0.2967,
+        "textblob_subjectivity": 0.4933
+    },
+    "45547, 11123": {
+        "lexicon_polarity": 0.347,
+        "textblob_polarity": 0.4046,
+        "textblob_subjectivity": 0.4986
+    },
+    "45029, 11123": {
+        "lexicon_polarity": 0.1625,
+        "textblob_polarity": 0.1607,
+        "textblob_subjectivity": 0.4917
+    },
+    "133863, 237": {
+        "lexicon_polarity": 0.1865,
+        "textblob_polarity": 0.1782,
+        "textblob_subjectivity": 0.4436
+    },
+    "210096, 237": {
+        "lexicon_polarity": 0.1488,
+        "textblob_polarity": 0.1458,
+        "textblob_subjectivity": 0.4882
+    },
+    "7938, 237": {
+        "lexicon_polarity": 0.48,
+        "textblob_polarity": 0.54,
+        "textblob_subjectivity": 0.665
+    },
+    "195754, 237": {
+        "lexicon_polarity": 0.3859,
+        "textblob_polarity": 0.2627,
+        "textblob_subjectivity": 0.4982
+    },
+    "190697, 237": {
+        "lexicon_polarity": 0.2157,
+        "textblob_polarity": 0.1745,
+        "textblob_subjectivity": 0.5265
+    },
+    "3133, 237": {
+        "lexicon_polarity": 0.2551,
+        "textblob_polarity": 0.2281,
+        "textblob_subjectivity": 0.5057
+    },
+    "58269, 237": {
+        "lexicon_polarity": 0.1951,
+        "textblob_polarity": 0.1354,
+        "textblob_subjectivity": 0.6025
+    },
+    "33142, 237": {
+        "lexicon_polarity": 0.3536,
+        "textblob_polarity": 0.3231,
+        "textblob_subjectivity": 0.6037
+    },
+    "75137, 237": {
+        "lexicon_polarity": 0.2141,
+        "textblob_polarity": 0.1324,
+        "textblob_subjectivity": 0.5462
+    },
+    "15197, 237": {
+        "lexicon_polarity": 0.4192,
+        "textblob_polarity": 0.3752,
+        "textblob_subjectivity": 0.4907
+    },
+    "285867, 237": {
+        "lexicon_polarity": 0.4382,
+        "textblob_polarity": 0.3466,
+        "textblob_subjectivity": 0.4931
+    },
+    "278126, 237": {
+        "lexicon_polarity": 0.3562,
+        "textblob_polarity": 0.3318,
+        "textblob_subjectivity": 0.602
+    },
+    "32888, 237": {
+        "lexicon_polarity": -0.4467,
+        "textblob_polarity": -0.2733,
+        "textblob_subjectivity": 0.6733
+    },
+    "37200, 237": {
+        "lexicon_polarity": 0.1498,
+        "textblob_polarity": 0.1242,
+        "textblob_subjectivity": 0.5599
+    },
+    "283693, 237": {
+        "lexicon_polarity": 0.2284,
+        "textblob_polarity": 0.2192,
+        "textblob_subjectivity": 0.5226
+    },
+    "27293, 237": {
+        "lexicon_polarity": 0.2024,
+        "textblob_polarity": 0.1786,
+        "textblob_subjectivity": 0.5762
+    },
+    "66811, 237": {
+        "lexicon_polarity": 0.4269,
+        "textblob_polarity": 0.3408,
+        "textblob_subjectivity": 0.584
+    },
+    "293589, 237": {
+        "lexicon_polarity": -0.0017,
+        "textblob_polarity": 0.023,
+        "textblob_subjectivity": 0.5471
+    },
+    "181453, 237": {
+        "lexicon_polarity": 0.3899,
+        "textblob_polarity": 0.3067,
+        "textblob_subjectivity": 0.5121
+    },
+    "17936, 237": {
+        "lexicon_polarity": 0.1064,
+        "textblob_polarity": 0.1007,
+        "textblob_subjectivity": 0.4388
+    },
+    "1113, 2034": {
+        "lexicon_polarity": 0.2986,
+        "textblob_polarity": 0.2962,
+        "textblob_subjectivity": 0.5374
+    },
+    "186137, 2034": {
+        "lexicon_polarity": 0.2019,
+        "textblob_polarity": 0.0719,
+        "textblob_subjectivity": 0.3113
+    },
+    "314972, 2034": {
+        "lexicon_polarity": 0.3208,
+        "textblob_polarity": 0.2649,
+        "textblob_subjectivity": 0.619
+    },
+    "320295, 2034": {
+        "lexicon_polarity": 0.2977,
+        "textblob_polarity": 0.2718,
+        "textblob_subjectivity": 0.5109
+    },
+    "322622, 2034": {
+        "lexicon_polarity": 0.2584,
+        "textblob_polarity": 0.2381,
+        "textblob_subjectivity": 0.4998
+    },
+    "33335, 2034": {
+        "lexicon_polarity": 0.0124,
+        "textblob_polarity": -0.0375,
+        "textblob_subjectivity": 0.6503
+    },
+    "78449, 2034": {
+        "lexicon_polarity": 0.0898,
+        "textblob_polarity": 0.0854,
+        "textblob_subjectivity": 0.6021
+    },
+    "216865, 2034": {
+        "lexicon_polarity": 0.1465,
+        "textblob_polarity": 0.1261,
+        "textblob_subjectivity": 0.454
+    },
+    "197882, 2034": {
+        "lexicon_polarity": 0.3209,
+        "textblob_polarity": 0.2639,
+        "textblob_subjectivity": 0.5791
+    },
+    "186083, 2034": {
+        "lexicon_polarity": 0.1793,
+        "textblob_polarity": 0.1313,
+        "textblob_subjectivity": 0.4696
+    },
+    "171785, 2034": {
+        "lexicon_polarity": 0.3555,
+        "textblob_polarity": 0.2833,
+        "textblob_subjectivity": 0.5574
+    },
+    "131151, 2034": {
+        "lexicon_polarity": 0.0323,
+        "textblob_polarity": 0.0877,
+        "textblob_subjectivity": 0.5692
+    },
+    "96155, 2034": {
+        "lexicon_polarity": 0.2592,
+        "textblob_polarity": 0.1933,
+        "textblob_subjectivity": 0.5148
+    },
+    "172663, 2034": {
+        "lexicon_polarity": 0.1268,
+        "textblob_polarity": 0.1581,
+        "textblob_subjectivity": 0.5965
+    },
+    "34703, 2034": {
+        "lexicon_polarity": 0.0427,
+        "textblob_polarity": 0.0173,
+        "textblob_subjectivity": 0.5486
+    },
+    "162051, 2034": {
+        "lexicon_polarity": 0.1029,
+        "textblob_polarity": 0.1197,
+        "textblob_subjectivity": 0.4905
+    },
+    "213159, 2034": {
+        "lexicon_polarity": 0.2918,
+        "textblob_polarity": 0.2188,
+        "textblob_subjectivity": 0.531
+    },
+    "117819, 2034": {
+        "lexicon_polarity": 0.0674,
+        "textblob_polarity": 0.0536,
+        "textblob_subjectivity": 0.5128
+    },
+    "217721, 2034": {
+        "lexicon_polarity": 0.1294,
+        "textblob_polarity": 0.1303,
+        "textblob_subjectivity": 0.4905
+    },
+    "164137, 2034": {
+        "lexicon_polarity": 0.1299,
+        "textblob_polarity": 0.1196,
+        "textblob_subjectivity": 0.4836
+    },
+    "182037, 25013": {
+        "lexicon_polarity": 0.4202,
+        "textblob_polarity": 0.243,
+        "textblob_subjectivity": 0.5053
+    },
+    "193619, 25013": {
+        "lexicon_polarity": 0.1355,
+        "textblob_polarity": 0.1474,
+        "textblob_subjectivity": 0.5194
+    },
+    "183280, 25013": {
+        "lexicon_polarity": 0.1549,
+        "textblob_polarity": 0.1217,
+        "textblob_subjectivity": 0.5344
+    },
+    "217841, 25013": {
+        "lexicon_polarity": 0.0992,
+        "textblob_polarity": 0.0989,
+        "textblob_subjectivity": 0.5
+    },
+    "320533, 25013": {
+        "lexicon_polarity": 0.2869,
+        "textblob_polarity": 0.2232,
+        "textblob_subjectivity": 0.5186
+    },
+    "176559, 25013": {
+        "lexicon_polarity": 0.3452,
+        "textblob_polarity": 0.3269,
+        "textblob_subjectivity": 0.6826
+    },
+    "183411, 25013": {
+        "lexicon_polarity": 0.1469,
+        "textblob_polarity": 0.1603,
+        "textblob_subjectivity": 0.5509
+    },
+    "174367, 25013": {
+        "lexicon_polarity": -0.082,
+        "textblob_polarity": 0.013,
+        "textblob_subjectivity": 0.5164
+    },
+    "194723, 25013": {
+        "lexicon_polarity": 0.276,
+        "textblob_polarity": 0.1956,
+        "textblob_subjectivity": 0.4615
+    },
+    "168355, 25013": {
+        "lexicon_polarity": 0.3403,
+        "textblob_polarity": 0.3006,
+        "textblob_subjectivity": 0.5462
+    },
+    "183229, 25013": {
+        "lexicon_polarity": 0.1335,
+        "textblob_polarity": 0.1196,
+        "textblob_subjectivity": 0.4978
+    },
+    "184689, 25013": {
+        "lexicon_polarity": 0.1969,
+        "textblob_polarity": 0.1245,
+        "textblob_subjectivity": 0.4631
+    },
+    "178891, 25013": {
+        "lexicon_polarity": 0.2832,
+        "textblob_polarity": 0.1898,
+        "textblob_subjectivity": 0.501
+    },
+    "183267, 25013": {
+        "lexicon_polarity": 0.2333,
+        "textblob_polarity": 0.1291,
+        "textblob_subjectivity": 0.5394
+    },
+    "176545, 25013": {
+        "lexicon_polarity": 0.2414,
+        "textblob_polarity": 0.1945,
+        "textblob_subjectivity": 0.6635
+    },
+    "183295, 25013": {
+        "lexicon_polarity": 0.1181,
+        "textblob_polarity": 0.1353,
+        "textblob_subjectivity": 0.5286
+    },
+    "183331, 25013": {
+        "lexicon_polarity": 0.2598,
+        "textblob_polarity": 0.2191,
+        "textblob_subjectivity": 0.4996
+    },
+    "183594, 25013": {
+        "lexicon_polarity": -0.064,
+        "textblob_polarity": -0.0206,
+        "textblob_subjectivity": 0.5067
+    },
+    "177499, 25013": {
+        "lexicon_polarity": 0.2614,
+        "textblob_polarity": 0.2536,
+        "textblob_subjectivity": 0.5713
+    },
+    "228624, 5365": {
+        "lexicon_polarity": 0.2284,
+        "textblob_polarity": 0.1811,
+        "textblob_subjectivity": 0.5261
+    },
+    "82004, 5365": {
+        "lexicon_polarity": 0.2208,
+        "textblob_polarity": 0.1468,
+        "textblob_subjectivity": 0.4876
+    },
+    "83128, 5365": {
+        "lexicon_polarity": 0.2253,
+        "textblob_polarity": 0.1878,
+        "textblob_subjectivity": 0.5534
+    },
+    "173295, 5365": {
+        "lexicon_polarity": 0.4885,
+        "textblob_polarity": 0.3674,
+        "textblob_subjectivity": 0.7069
+    },
+    "214718, 5365": {
+        "lexicon_polarity": 0.4012,
+        "textblob_polarity": 0.2481,
+        "textblob_subjectivity": 0.4761
+    },
+    "288850, 5365": {
+        "lexicon_polarity": 0.0868,
+        "textblob_polarity": 0.0359,
+        "textblob_subjectivity": 0.3837
+    },
+    "119525, 5365": {
+        "lexicon_polarity": 0.2482,
+        "textblob_polarity": 0.1812,
+        "textblob_subjectivity": 0.5553
+    },
+    "234941, 5365": {
+        "lexicon_polarity": 0.1318,
+        "textblob_polarity": 0.1385,
+        "textblob_subjectivity": 0.5654
+    },
+    "102279, 5365": {
+        "lexicon_polarity": 0.1935,
+        "textblob_polarity": 0.1315,
+        "textblob_subjectivity": 0.475
+    },
+    "83257, 5365": {
+        "lexicon_polarity": 0.1788,
+        "textblob_polarity": 0.2827,
+        "textblob_subjectivity": 0.6962
+    },
+    "19987, 5365": {
+        "lexicon_polarity": 0.3018,
+        "textblob_polarity": 0.1695,
+        "textblob_subjectivity": 0.4523
+    },
+    "239718, 5365": {
+        "lexicon_polarity": 0.1907,
+        "textblob_polarity": 0.0735,
+        "textblob_subjectivity": 0.4488
+    },
+    "283049, 5365": {
+        "lexicon_polarity": 0.2371,
+        "textblob_polarity": 0.2528,
+        "textblob_subjectivity": 0.569
+    },
+    "27595, 5365": {
+        "lexicon_polarity": 0.2203,
+        "textblob_polarity": 0.1894,
+        "textblob_subjectivity": 0.4981
+    },
+    "235554, 5365": {
+        "lexicon_polarity": 0.3943,
+        "textblob_polarity": 0.2827,
+        "textblob_subjectivity": 0.5879
+    },
+    "200634, 5365": {
+        "lexicon_polarity": 0.2332,
+        "textblob_polarity": 0.1131,
+        "textblob_subjectivity": 0.5361
+    },
+    "190693, 5365": {
+        "lexicon_polarity": 0.4829,
+        "textblob_polarity": 0.3679,
+        "textblob_subjectivity": 0.5714
+    },
+    "19168, 5365": {
+        "lexicon_polarity": 0.4748,
+        "textblob_polarity": 0.3763,
+        "textblob_subjectivity": 0.5479
+    },
+    "166847, 5365": {
+        "lexicon_polarity": 0.3209,
+        "textblob_polarity": 0.2192,
+        "textblob_subjectivity": 0.6218
+    },
+    "264576, 5365": {
+        "lexicon_polarity": 0.3697,
+        "textblob_polarity": 0.2006,
+        "textblob_subjectivity": 0.5862
+    },
+    "225319, 2759": {
+        "lexicon_polarity": -0.0084,
+        "textblob_polarity": 0.0707,
+        "textblob_subjectivity": 0.4757
+    },
+    "6772, 2759": {
+        "lexicon_polarity": -0.1863,
+        "textblob_polarity": -0.0908,
+        "textblob_subjectivity": 0.5495
+    },
+    "314006, 2759": {
+        "lexicon_polarity": 0.2062,
+        "textblob_polarity": 0.1176,
+        "textblob_subjectivity": 0.4807
+    },
+    "96717, 2759": {
+        "lexicon_polarity": 0.3191,
+        "textblob_polarity": 0.3005,
+        "textblob_subjectivity": 0.5027
+    },
+    "121749, 2759": {
+        "lexicon_polarity": 0.1906,
+        "textblob_polarity": 0.1771,
+        "textblob_subjectivity": 0.469
+    },
+    "24078, 2759": {
+        "lexicon_polarity": 0.3274,
+        "textblob_polarity": 0.2529,
+        "textblob_subjectivity": 0.5431
+    },
+    "98415, 2759": {
+        "lexicon_polarity": 0.3282,
+        "textblob_polarity": 0.2578,
+        "textblob_subjectivity": 0.5321
+    },
+    "26576, 2759": {
+        "lexicon_polarity": 0.1995,
+        "textblob_polarity": 0.1866,
+        "textblob_subjectivity": 0.5056
+    },
+    "4427, 2759": {
+        "lexicon_polarity": 0.1976,
+        "textblob_polarity": 0.2035,
+        "textblob_subjectivity": 0.5319
+    },
+    "29010, 2759": {
+        "lexicon_polarity": 0.1685,
+        "textblob_polarity": 0.1529,
+        "textblob_subjectivity": 0.4516
+    },
+    "3796, 2759": {
+        "lexicon_polarity": 0.2028,
+        "textblob_polarity": 0.1363,
+        "textblob_subjectivity": 0.3807
+    },
+    "139727, 2759": {
+        "lexicon_polarity": 0.3149,
+        "textblob_polarity": 0.1253,
+        "textblob_subjectivity": 0.4653
+    },
+    "94957, 2759": {
+        "lexicon_polarity": 0.2696,
+        "textblob_polarity": 0.2161,
+        "textblob_subjectivity": 0.4757
+    },
+    "4695, 2759": {
+        "lexicon_polarity": 0.28,
+        "textblob_polarity": 0.2175,
+        "textblob_subjectivity": 0.4732
+    },
+    "2638, 2759": {
+        "lexicon_polarity": 0.199,
+        "textblob_polarity": 0.1594,
+        "textblob_subjectivity": 0.5077
+    },
+    "25692, 2759": {
+        "lexicon_polarity": 0.1786,
+        "textblob_polarity": 0.1467,
+        "textblob_subjectivity": 0.5265
+    },
+    "17904, 2759": {
+        "lexicon_polarity": 0.1419,
+        "textblob_polarity": 0.1261,
+        "textblob_subjectivity": 0.517
+    },
+    "6918, 2759": {
+        "lexicon_polarity": 0.2577,
+        "textblob_polarity": 0.2157,
+        "textblob_subjectivity": 0.5486
+    },
+    "27146, 3167": {
+        "lexicon_polarity": 0.3115,
+        "textblob_polarity": 0.3186,
+        "textblob_subjectivity": 0.4843
+    },
+    "28533, 3167": {
+        "lexicon_polarity": 0.3135,
+        "textblob_polarity": 0.2496,
+        "textblob_subjectivity": 0.511
+    },
+    "21099, 3167": {
+        "lexicon_polarity": 0.104,
+        "textblob_polarity": 0.1495,
+        "textblob_subjectivity": 0.4896
+    },
+    "101913, 3167": {
+        "lexicon_polarity": 0.298,
+        "textblob_polarity": 0.1903,
+        "textblob_subjectivity": 0.5147
+    },
+    "115725, 3167": {
+        "lexicon_polarity": 0.3991,
+        "textblob_polarity": 0.1829,
+        "textblob_subjectivity": 0.521
+    },
+    "280747, 3167": {
+        "lexicon_polarity": 0.1,
+        "textblob_polarity": 0.0972,
+        "textblob_subjectivity": 0.4832
+    },
+    "286341, 3167": {
+        "lexicon_polarity": 0.1473,
+        "textblob_polarity": 0.0636,
+        "textblob_subjectivity": 0.4764
+    },
+    "67663, 3167": {
+        "lexicon_polarity": 0.2392,
+        "textblob_polarity": 0.1244,
+        "textblob_subjectivity": 0.5277
+    },
+    "24183, 3167": {
+        "lexicon_polarity": 0.1679,
+        "textblob_polarity": 0.1236,
+        "textblob_subjectivity": 0.4819
+    },
+    "101705, 3167": {
+        "lexicon_polarity": 0.3468,
+        "textblob_polarity": 0.1824,
+        "textblob_subjectivity": 0.5812
+    },
+    "25874, 3167": {
+        "lexicon_polarity": 0.2281,
+        "textblob_polarity": 0.2001,
+        "textblob_subjectivity": 0.5128
+    },
+    "180710, 3167": {
+        "lexicon_polarity": 0.1947,
+        "textblob_polarity": 0.1438,
+        "textblob_subjectivity": 0.4552
+    },
+    "10017, 3167": {
+        "lexicon_polarity": 0.3073,
+        "textblob_polarity": 0.1902,
+        "textblob_subjectivity": 0.5447
+    },
+    "15326, 3167": {
+        "lexicon_polarity": 0.2597,
+        "textblob_polarity": 0.1918,
+        "textblob_subjectivity": 0.5578
+    },
+    "22089, 3167": {
+        "lexicon_polarity": 0.1079,
+        "textblob_polarity": 0.119,
+        "textblob_subjectivity": 0.4259
+    },
+    "25472, 3167": {
+        "lexicon_polarity": 0.3039,
+        "textblob_polarity": 0.2431,
+        "textblob_subjectivity": 0.6376
+    },
+    "181971, 3167": {
+        "lexicon_polarity": 0.086,
+        "textblob_polarity": 0.0732,
+        "textblob_subjectivity": 0.4888
+    },
+    "25694, 3167": {
+        "lexicon_polarity": 0.2072,
+        "textblob_polarity": 0.1793,
+        "textblob_subjectivity": 0.5453
+    },
+    "9068, 3167": {
+        "lexicon_polarity": 0.2485,
+        "textblob_polarity": 0.331,
+        "textblob_subjectivity": 0.6726
+    },
+    "18960, 3167": {
+        "lexicon_polarity": 0.2425,
+        "textblob_polarity": 0.1929,
+        "textblob_subjectivity": 0.5021
+    },
+    "323826, 36371": {
+        "lexicon_polarity": 0.1709,
+        "textblob_polarity": 0.1642,
+        "textblob_subjectivity": 0.5015
+    },
+    "304513, 33206": {
+        "lexicon_polarity": 0.2284,
+        "textblob_polarity": 0.2064,
+        "textblob_subjectivity": 0.5403
+    },
+    "313640, 33206": {
+        "lexicon_polarity": 0.37,
+        "textblob_polarity": 0.2111,
+        "textblob_subjectivity": 0.5306
+    },
+    "242125, 33206": {
+        "lexicon_polarity": 0.1778,
+        "textblob_polarity": 0.174,
+        "textblob_subjectivity": 0.4972
+    },
+    "244718, 33206": {
+        "lexicon_polarity": 0.2699,
+        "textblob_polarity": 0.2017,
+        "textblob_subjectivity": 0.5469
+    },
+    "244713, 33206": {
+        "lexicon_polarity": 0.12,
+        "textblob_polarity": 0.1638,
+        "textblob_subjectivity": 0.5354
+    },
+    "244800, 33206": {
+        "lexicon_polarity": 0.0973,
+        "textblob_polarity": 0.154,
+        "textblob_subjectivity": 0.4873
+    },
+    "267288, 33206": {
+        "lexicon_polarity": -0.124,
+        "textblob_polarity": -0.0882,
+        "textblob_subjectivity": 0.6028
+    },
+    "241847, 33206": {
+        "lexicon_polarity": 0.0884,
+        "textblob_polarity": 0.0938,
+        "textblob_subjectivity": 0.6067
+    },
+    "242213, 33206": {
+        "lexicon_polarity": 0.1715,
+        "textblob_polarity": 0.1276,
+        "textblob_subjectivity": 0.5048
+    },
+    "239962, 33206": {
+        "lexicon_polarity": 0.2105,
+        "textblob_polarity": 0.2292,
+        "textblob_subjectivity": 0.4562
+    },
+    "244740, 33206": {
+        "lexicon_polarity": 0.3022,
+        "textblob_polarity": 0.2125,
+        "textblob_subjectivity": 0.5774
+    },
+    "277838, 33206": {
+        "lexicon_polarity": 0.2126,
+        "textblob_polarity": 0.1307,
+        "textblob_subjectivity": 0.4345
+    },
+    "244712, 33206": {
+        "lexicon_polarity": 0.1496,
+        "textblob_polarity": 0.119,
+        "textblob_subjectivity": 0.5481
+    },
+    "241709, 33206": {
+        "lexicon_polarity": 0.0198,
+        "textblob_polarity": 0.0662,
+        "textblob_subjectivity": 0.4882
+    },
+    "244705, 33206": {
+        "lexicon_polarity": 0.1651,
+        "textblob_polarity": 0.1384,
+        "textblob_subjectivity": 0.5116
+    },
+    "242000, 33206": {
+        "lexicon_polarity": 0.1468,
+        "textblob_polarity": 0.0935,
+        "textblob_subjectivity": 0.5043
+    },
+    "244715, 33206": {
+        "lexicon_polarity": 0.2696,
+        "textblob_polarity": 0.21,
+        "textblob_subjectivity": 0.5596
+    },
+    "239715, 33206": {
+        "lexicon_polarity": 0.2101,
+        "textblob_polarity": 0.1589,
+        "textblob_subjectivity": 0.4847
+    },
+    "244699, 33206": {
+        "lexicon_polarity": 0.1867,
+        "textblob_polarity": 0.1569,
+        "textblob_subjectivity": 0.4932
+    },
+    "244750, 33206": {
+        "lexicon_polarity": 0.1378,
+        "textblob_polarity": 0.1519,
+        "textblob_subjectivity": 0.5601
+    },
+    "253953, 34626": {
+        "lexicon_polarity": 0.089,
+        "textblob_polarity": 0.1113,
+        "textblob_subjectivity": 0.5013
+    },
+    "254174, 34626": {
+        "lexicon_polarity": 0.2337,
+        "textblob_polarity": 0.1812,
+        "textblob_subjectivity": 0.534
+    },
+    "319504, 34626": {
+        "lexicon_polarity": 0.5,
+        "textblob_polarity": 0.1133,
+        "textblob_subjectivity": 0.7133
+    },
+    "268899, 34626": {
+        "lexicon_polarity": 0.252,
+        "textblob_polarity": 0.2503,
+        "textblob_subjectivity": 0.3949
+    },
+    "308210, 34626": {
+        "lexicon_polarity": 0.2234,
+        "textblob_polarity": 0.1404,
+        "textblob_subjectivity": 0.3568
+    },
+    "253864, 34626": {
+        "lexicon_polarity": 0.0077,
+        "textblob_polarity": -0.0247,
+        "textblob_subjectivity": 0.3825
+    },
+    "271894, 34626": {
+        "lexicon_polarity": 0.1122,
+        "textblob_polarity": 0.0851,
+        "textblob_subjectivity": 0.4342
+    },
+    "253963, 34626": {
+        "lexicon_polarity": -0.1314,
+        "textblob_polarity": -0.1068,
+        "textblob_subjectivity": 0.5704
+    },
+    "253935, 34626": {
+        "lexicon_polarity": 0.1588,
+        "textblob_polarity": 0.121,
+        "textblob_subjectivity": 0.4715
+    },
+    "253889, 34626": {
+        "lexicon_polarity": 0.2667,
+        "textblob_polarity": 0.1846,
+        "textblob_subjectivity": 0.4081
+    },
+    "284690, 237": {
+        "lexicon_polarity": 0.1736,
+        "textblob_polarity": 0.151,
+        "textblob_subjectivity": 0.5058
+    },
+    "230, 237": {
+        "lexicon_polarity": 0.2285,
+        "textblob_polarity": 0.1857,
+        "textblob_subjectivity": 0.476
+    },
+    "105663, 237": {
+        "lexicon_polarity": 0.2042,
+        "textblob_polarity": 0.1664,
+        "textblob_subjectivity": 0.477
+    },
+    "18296, 237": {
+        "lexicon_polarity": 0.2474,
+        "textblob_polarity": 0.2146,
+        "textblob_subjectivity": 0.6475
+    },
+    "169991, 237": {
+        "lexicon_polarity": 0.2805,
+        "textblob_polarity": 0.2117,
+        "textblob_subjectivity": 0.5391
+    },
+    "136299, 237": {
+        "lexicon_polarity": 0.2016,
+        "textblob_polarity": 0.1849,
+        "textblob_subjectivity": 0.5115
+    },
+    "8851, 237": {
+        "lexicon_polarity": 0.3232,
+        "textblob_polarity": 0.3169,
+        "textblob_subjectivity": 0.5244
+    },
+    "211752, 237": {
+        "lexicon_polarity": 0.192,
+        "textblob_polarity": 0.1814,
+        "textblob_subjectivity": 0.4795
+    },
+    "7853, 237": {
+        "lexicon_polarity": 0.2656,
+        "textblob_polarity": 0.212,
+        "textblob_subjectivity": 0.4397
+    },
+    "1650, 237": {
+        "lexicon_polarity": 0.2278,
+        "textblob_polarity": 0.2219,
+        "textblob_subjectivity": 0.3625
+    },
+    "79956, 237": {
+        "lexicon_polarity": 0.1155,
+        "textblob_polarity": 0.107,
+        "textblob_subjectivity": 0.4556
+    },
+    "8379, 237": {
+        "lexicon_polarity": 0.2873,
+        "textblob_polarity": 0.2835,
+        "textblob_subjectivity": 0.4438
+    },
+    "120721, 237": {
+        "lexicon_polarity": 0.1774,
+        "textblob_polarity": 0.1513,
+        "textblob_subjectivity": 0.468
+    },
+    "295726, 237": {
+        "lexicon_polarity": 0.2821,
+        "textblob_polarity": 0.2393,
+        "textblob_subjectivity": 0.5821
+    },
+    "217, 237": {
+        "lexicon_polarity": 0.2753,
+        "textblob_polarity": 0.2702,
+        "textblob_subjectivity": 0.5178
+    },
+    "5210, 237": {
+        "lexicon_polarity": 0.0422,
+        "textblob_polarity": 0.0509,
+        "textblob_subjectivity": 0.6134
+    },
+    "16484, 237": {
+        "lexicon_polarity": 0.0916,
+        "textblob_polarity": 0.0718,
+        "textblob_subjectivity": 0.5111
+    },
+    "13812, 237": {
+        "lexicon_polarity": 0.301,
+        "textblob_polarity": 0.2552,
+        "textblob_subjectivity": 0.5765
+    },
+    "14139, 237": {
+        "lexicon_polarity": 0.2057,
+        "textblob_polarity": 0.1995,
+        "textblob_subjectivity": 0.5013
+    },
+    "173, 237": {
+        "lexicon_polarity": 0.2275,
+        "textblob_polarity": 0.2323,
+        "textblob_subjectivity": 0.5276
+    },
+    "185179, 2034": {
+        "lexicon_polarity": 0.1822,
+        "textblob_polarity": 0.1534,
+        "textblob_subjectivity": 0.4894
+    },
+    "211685, 2034": {
+        "lexicon_polarity": 0.1529,
+        "textblob_polarity": 0.1051,
+        "textblob_subjectivity": 0.4729
+    },
+    "180130, 2034": {
+        "lexicon_polarity": 0.1874,
+        "textblob_polarity": 0.1923,
+        "textblob_subjectivity": 0.5309
+    },
+    "180594, 2034": {
+        "lexicon_polarity": 0.0743,
+        "textblob_polarity": 0.0228,
+        "textblob_subjectivity": 0.4776
+    },
+    "155155, 2034": {
+        "lexicon_polarity": 0.1693,
+        "textblob_polarity": 0.1407,
+        "textblob_subjectivity": 0.5035
+    },
+    "14265, 2034": {
+        "lexicon_polarity": 0.2852,
+        "textblob_polarity": 0.2252,
+        "textblob_subjectivity": 0.5548
+    },
+    "100645, 2034": {
+        "lexicon_polarity": 0.1506,
+        "textblob_polarity": 0.1562,
+        "textblob_subjectivity": 0.4855
+    },
+    "37583, 2034": {
+        "lexicon_polarity": 0.1671,
+        "textblob_polarity": 0.1381,
+        "textblob_subjectivity": 0.5166
+    },
+    "194470, 2034": {
+        "lexicon_polarity": 0.1459,
+        "textblob_polarity": 0.1219,
+        "textblob_subjectivity": 0.564
+    },
+    "188190, 2034": {
+        "lexicon_polarity": 0.1841,
+        "textblob_polarity": 0.1216,
+        "textblob_subjectivity": 0.4758
+    },
+    "6431, 2034": {
+        "lexicon_polarity": 0.3297,
+        "textblob_polarity": 0.2954,
+        "textblob_subjectivity": 0.5254
+    },
+    "188976, 2034": {
+        "lexicon_polarity": -0.0917,
+        "textblob_polarity": -0.0794,
+        "textblob_subjectivity": 0.3982
+    },
+    "10228, 2034": {
+        "lexicon_polarity": 0.2352,
+        "textblob_polarity": 0.2665,
+        "textblob_subjectivity": 0.5304
+    },
+    "1467, 2034": {
+        "lexicon_polarity": 0.273,
+        "textblob_polarity": 0.1931,
+        "textblob_subjectivity": 0.5618
+    },
+    "1572, 2034": {
+        "lexicon_polarity": 0.1953,
+        "textblob_polarity": 0.1621,
+        "textblob_subjectivity": 0.5207
+    },
+    "1030, 2034": {
+        "lexicon_polarity": 0.2014,
+        "textblob_polarity": 0.2775,
+        "textblob_subjectivity": 0.5239
+    },
+    "14365, 2034": {
+        "lexicon_polarity": 0.1884,
+        "textblob_polarity": 0.1792,
+        "textblob_subjectivity": 0.5487
+    },
+    "25154, 2034": {
+        "lexicon_polarity": -0.0216,
+        "textblob_polarity": 0.0144,
+        "textblob_subjectivity": 0.5702
+    },
+    "600, 2034": {
+        "lexicon_polarity": 0.2022,
+        "textblob_polarity": 0.1587,
+        "textblob_subjectivity": 0.4839
+    },
+    "787, 2034": {
+        "lexicon_polarity": 0.2759,
+        "textblob_polarity": 0.2491,
+        "textblob_subjectivity": 0.6019
+    },
+    "221329, 302": {
+        "lexicon_polarity": 0.1684,
+        "textblob_polarity": 0.1805,
+        "textblob_subjectivity": 0.5542
+    },
+    "261689, 302": {
+        "lexicon_polarity": 0.0861,
+        "textblob_polarity": 0.0963,
+        "textblob_subjectivity": 0.4651
+    },
+    "306299, 302": {
+        "lexicon_polarity": 0.2237,
+        "textblob_polarity": 0.1687,
+        "textblob_subjectivity": 0.5048
+    },
+    "37553, 302": {
+        "lexicon_polarity": 0.3045,
+        "textblob_polarity": 0.188,
+        "textblob_subjectivity": 0.4147
+    },
+    "252175, 302": {
+        "lexicon_polarity": 0.1992,
+        "textblob_polarity": 0.2028,
+        "textblob_subjectivity": 0.5466
+    },
+    "22226, 302": {
+        "lexicon_polarity": 0.2766,
+        "textblob_polarity": 0.226,
+        "textblob_subjectivity": 0.4888
+    },
+    "359, 302": {
+        "lexicon_polarity": 0.2731,
+        "textblob_polarity": 0.2929,
+        "textblob_subjectivity": 0.5673
+    },
+    "14144, 302": {
+        "lexicon_polarity": 0.3009,
+        "textblob_polarity": 0.2483,
+        "textblob_subjectivity": 0.4438
+    },
+    "203577, 1914": {
+        "lexicon_polarity": 0.3168,
+        "textblob_polarity": 0.264,
+        "textblob_subjectivity": 0.5112
+    },
+    "2263, 1914": {
+        "lexicon_polarity": 0.0333,
+        "textblob_polarity": 0.0257,
+        "textblob_subjectivity": 0.6629
+    },
+    "12663, 1914": {
+        "lexicon_polarity": 0.2333,
+        "textblob_polarity": 0.2809,
+        "textblob_subjectivity": 0.4993
+    },
+    "221555, 29831": {
+        "lexicon_polarity": 0.2581,
+        "textblob_polarity": 0.2583,
+        "textblob_subjectivity": 0.4909
+    },
+    "221574, 29831": {
+        "lexicon_polarity": 0.3055,
+        "textblob_polarity": 0.2261,
+        "textblob_subjectivity": 0.5567
+    },
+    "63335, 5365": {
+        "lexicon_polarity": 0.3835,
+        "textblob_polarity": 0.2283,
+        "textblob_subjectivity": 0.4614
+    },
+    "197245, 5365": {
+        "lexicon_polarity": 0.0511,
+        "textblob_polarity": 0.0157,
+        "textblob_subjectivity": 0.375
+    },
+    "76921, 5365": {
+        "lexicon_polarity": 0.0815,
+        "textblob_polarity": 0.1112,
+        "textblob_subjectivity": 0.4972
+    },
+    "316190, 5365": {
+        "lexicon_polarity": 0.5922,
+        "textblob_polarity": 0.5126,
+        "textblob_subjectivity": 0.5525
+    },
+    "202378, 5365": {
+        "lexicon_polarity": 0.2621,
+        "textblob_polarity": 0.1836,
+        "textblob_subjectivity": 0.4554
+    },
+    "26727, 5365": {
+        "lexicon_polarity": 0.4723,
+        "textblob_polarity": 0.3517,
+        "textblob_subjectivity": 0.5067
+    },
+    "182502, 5365": {
+        "lexicon_polarity": 0.2333,
+        "textblob_polarity": 0.1216,
+        "textblob_subjectivity": 0.4925
+    },
+    "252226, 5365": {
+        "lexicon_polarity": 0.0387,
+        "textblob_polarity": 0.0239,
+        "textblob_subjectivity": 0.4176
+    },
+    "91493, 5365": {
+        "lexicon_polarity": 0.1911,
+        "textblob_polarity": 0.1105,
+        "textblob_subjectivity": 0.4848
+    },
+    "61105, 5365": {
+        "lexicon_polarity": 0.4169,
+        "textblob_polarity": 0.2744,
+        "textblob_subjectivity": 0.6179
+    },
+    "31998, 5365": {
+        "lexicon_polarity": 0.1041,
+        "textblob_polarity": 0.0802,
+        "textblob_subjectivity": 0.3842
+    },
+    "18052, 5365": {
+        "lexicon_polarity": 0.2275,
+        "textblob_polarity": 0.2848,
+        "textblob_subjectivity": 0.4482
+    },
+    "12672, 5365": {
+        "lexicon_polarity": 0.1792,
+        "textblob_polarity": 0.2086,
+        "textblob_subjectivity": 0.4476
+    },
+    "172927, 5365": {
+        "lexicon_polarity": 0.2767,
+        "textblob_polarity": 0.152,
+        "textblob_subjectivity": 0.4987
+    },
+    "18905, 5365": {
+        "lexicon_polarity": 0.0709,
+        "textblob_polarity": 0.0851,
+        "textblob_subjectivity": 0.4871
+    },
+    "278665, 5365": {
+        "lexicon_polarity": 0.2492,
+        "textblob_polarity": 0.1617,
+        "textblob_subjectivity": 0.4247
+    },
+    "193437, 5365": {
+        "lexicon_polarity": 0.0942,
+        "textblob_polarity": 0.0322,
+        "textblob_subjectivity": 0.4407
+    },
+    "186680, 5365": {
+        "lexicon_polarity": 0.1606,
+        "textblob_polarity": 0.1151,
+        "textblob_subjectivity": 0.4579
+    },
+    "18465, 5365": {
+        "lexicon_polarity": 0.0524,
+        "textblob_polarity": 0.0464,
+        "textblob_subjectivity": 0.4041
+    },
+    "34473, 5365": {
+        "lexicon_polarity": 0.3015,
+        "textblob_polarity": 0.208,
+        "textblob_subjectivity": 0.3239
+    },
+    "32039, 4918": {
+        "lexicon_polarity": 0.3518,
+        "textblob_polarity": 0.3113,
+        "textblob_subjectivity": 0.4928
+    },
+    "199498, 27663": {
+        "lexicon_polarity": 0.3434,
+        "textblob_polarity": 0.2498,
+        "textblob_subjectivity": 0.5117
+    },
+    "212460, 27663": {
+        "lexicon_polarity": -0.1369,
+        "textblob_polarity": -0.0328,
+        "textblob_subjectivity": 0.3945
+    },
+    "205888, 27663": {
+        "lexicon_polarity": 0.2307,
+        "textblob_polarity": 0.2057,
+        "textblob_subjectivity": 0.5443
+    },
+    "203443, 27663": {
+        "lexicon_polarity": 0.188,
+        "textblob_polarity": 0.2034,
+        "textblob_subjectivity": 0.4891
+    },
+    "199400, 27663": {
+        "lexicon_polarity": 0.1575,
+        "textblob_polarity": 0.1679,
+        "textblob_subjectivity": 0.4159
+    },
+    "201644, 27663": {
+        "lexicon_polarity": 0.2112,
+        "textblob_polarity": 0.1744,
+        "textblob_subjectivity": 0.4327
+    },
+    "199065, 27663": {
+        "lexicon_polarity": 0.1509,
+        "textblob_polarity": 0.138,
+        "textblob_subjectivity": 0.465
+    },
+    "209463, 27663": {
+        "lexicon_polarity": 0.1192,
+        "textblob_polarity": 0.1246,
+        "textblob_subjectivity": 0.5141
+    },
+    "201430, 27663": {
+        "lexicon_polarity": 0.1503,
+        "textblob_polarity": 0.1439,
+        "textblob_subjectivity": 0.4728
+    },
+    "228453, 30276": {
+        "lexicon_polarity": 0.248,
+        "textblob_polarity": 0.2652,
+        "textblob_subjectivity": 0.5656
+    },
+    "211511, 30276": {
+        "lexicon_polarity": 0.1235,
+        "textblob_polarity": 0.1277,
+        "textblob_subjectivity": 0.5948
+    },
+    "211118, 30276": {
+        "lexicon_polarity": 0.2348,
+        "textblob_polarity": 0.202,
+        "textblob_subjectivity": 0.5035
+    },
+    "237069, 30276": {
+        "lexicon_polarity": 0.1178,
+        "textblob_polarity": 0.0848,
+        "textblob_subjectivity": 0.4992
+    },
+    "211448, 30276": {
+        "lexicon_polarity": 0.1541,
+        "textblob_polarity": 0.1445,
+        "textblob_subjectivity": 0.4469
+    },
+    "223291, 30276": {
+        "lexicon_polarity": 0.2765,
+        "textblob_polarity": 0.278,
+        "textblob_subjectivity": 0.5684
+    },
+    "227612, 30276": {
+        "lexicon_polarity": 0.3263,
+        "textblob_polarity": 0.2504,
+        "textblob_subjectivity": 0.489
+    },
+    "210159, 30276": {
+        "lexicon_polarity": 0.0984,
+        "textblob_polarity": 0.1183,
+        "textblob_subjectivity": 0.5592
+    },
+    "227666, 30276": {
+        "lexicon_polarity": 0.1837,
+        "textblob_polarity": 0.1791,
+        "textblob_subjectivity": 0.4806
+    },
+    "294073, 30276": {
+        "lexicon_polarity": 0.1684,
+        "textblob_polarity": 0.1622,
+        "textblob_subjectivity": 0.4389
+    },
+    "301862, 30276": {
+        "lexicon_polarity": 0.2246,
+        "textblob_polarity": 0.2048,
+        "textblob_subjectivity": 0.4739
+    },
+    "211535, 30276": {
+        "lexicon_polarity": 0.1755,
+        "textblob_polarity": 0.1545,
+        "textblob_subjectivity": 0.4482
+    },
+    "206454, 30276": {
+        "lexicon_polarity": 0.2472,
+        "textblob_polarity": 0.1982,
+        "textblob_subjectivity": 0.5002
+    },
+    "185204, 25313": {
+        "lexicon_polarity": 0.2011,
+        "textblob_polarity": 0.1453,
+        "textblob_subjectivity": 0.4687
+    },
+    "304470, 1974": {
+        "lexicon_polarity": 0.198,
+        "textblob_polarity": 0.2573,
+        "textblob_subjectivity": 0.5177
+    },
+    "296368, 16918": {
+        "lexicon_polarity": 0.2635,
+        "textblob_polarity": 0.2869,
+        "textblob_subjectivity": 0.5764
+    },
+    "226132, 32005": {
+        "lexicon_polarity": 0.2758,
+        "textblob_polarity": 0.2794,
+        "textblob_subjectivity": 0.5089
+    },
+    "242389, 32005": {
+        "lexicon_polarity": 0.1928,
+        "textblob_polarity": 0.1851,
+        "textblob_subjectivity": 0.5215
+    },
+    "312939, 30370": {
+        "lexicon_polarity": 0.1618,
+        "textblob_polarity": 0.1133,
+        "textblob_subjectivity": 0.5256
+    },
+    "277995, 30370": {
+        "lexicon_polarity": 0.3169,
+        "textblob_polarity": 0.3024,
+        "textblob_subjectivity": 0.5297
+    },
+    "324102, 30370": {
+        "lexicon_polarity": 0.3121,
+        "textblob_polarity": 0.2675,
+        "textblob_subjectivity": 0.4495
+    },
+    "247579, 30370": {
+        "lexicon_polarity": -0.0697,
+        "textblob_polarity": -0.019,
+        "textblob_subjectivity": 0.6238
+    },
+    "200658, 1974": {
+        "lexicon_polarity": 0.3364,
+        "textblob_polarity": 0.3456,
+        "textblob_subjectivity": 0.6
+    },
+    "214482, 1974": {
+        "lexicon_polarity": 0.2583,
+        "textblob_polarity": 0.1848,
+        "textblob_subjectivity": 0.5401
+    },
+    "320058, 16918": {
+        "lexicon_polarity": 0.3163,
+        "textblob_polarity": 0.2679,
+        "textblob_subjectivity": 0.4021
+    },
+    "241268, 16918": {
+        "lexicon_polarity": 0.2617,
+        "textblob_polarity": 0.2297,
+        "textblob_subjectivity": 0.4604
+    },
+    "248667, 16918": {
+        "lexicon_polarity": 0.3912,
+        "textblob_polarity": 0.3218,
+        "textblob_subjectivity": 0.5276
+    },
+    "113457, 16918": {
+        "lexicon_polarity": 0.1904,
+        "textblob_polarity": 0.1772,
+        "textblob_subjectivity": 0.5274
+    },
+    "213251, 16918": {
+        "lexicon_polarity": 0.1653,
+        "textblob_polarity": 0.1574,
+        "textblob_subjectivity": 0.5563
+    },
+    "197993, 16918": {
+        "lexicon_polarity": 0.2121,
+        "textblob_polarity": 0.1624,
+        "textblob_subjectivity": 0.5393
+    },
+    "186913, 16918": {
+        "lexicon_polarity": 0.4626,
+        "textblob_polarity": 0.416,
+        "textblob_subjectivity": 0.5641
+    },
+    "156065, 16918": {
+        "lexicon_polarity": 0.1785,
+        "textblob_polarity": 0.1641,
+        "textblob_subjectivity": 0.4886
+    },
+    "124879, 16918": {
+        "lexicon_polarity": 0.2435,
+        "textblob_polarity": 0.2485,
+        "textblob_subjectivity": 0.5515
+    },
+    "262711, 16918": {
+        "lexicon_polarity": 0.5262,
+        "textblob_polarity": 0.3222,
+        "textblob_subjectivity": 0.606
+    },
+    "229762, 16918": {
+        "lexicon_polarity": 0.335,
+        "textblob_polarity": 0.2756,
+        "textblob_subjectivity": 0.5268
+    },
+    "113641, 16918": {
+        "lexicon_polarity": 0.2346,
+        "textblob_polarity": 0.1649,
+        "textblob_subjectivity": 0.4938
+    },
+    "279023, 16918": {
+        "lexicon_polarity": 0.3,
+        "textblob_polarity": 0.2415,
+        "textblob_subjectivity": 0.5302
+    },
+    "238708, 16918": {
+        "lexicon_polarity": 0.2642,
+        "textblob_polarity": 0.2376,
+        "textblob_subjectivity": 0.5809
+    },
+    "240972, 16918": {
+        "lexicon_polarity": -0.0283,
+        "textblob_polarity": 0.0778,
+        "textblob_subjectivity": 0.5109
+    },
+    "292326, 16918": {
+        "lexicon_polarity": 0.4235,
+        "textblob_polarity": 0.3428,
+        "textblob_subjectivity": 0.6137
+    },
+    "124465, 16918": {
+        "lexicon_polarity": 0.3286,
+        "textblob_polarity": 0.3163,
+        "textblob_subjectivity": 0.5467
+    },
+    "133703, 16918": {
+        "lexicon_polarity": 0.2062,
+        "textblob_polarity": 0.1761,
+        "textblob_subjectivity": 0.4955
+    },
+    "113951, 16918": {
+        "lexicon_polarity": 0.1631,
+        "textblob_polarity": 0.2357,
+        "textblob_subjectivity": 0.5934
+    },
+    "205043, 16918": {
+        "lexicon_polarity": 0.2089,
+        "textblob_polarity": 0.1624,
+        "textblob_subjectivity": 0.5384
+    },
+    "240681, 16918": {
+        "lexicon_polarity": 0.1602,
+        "textblob_polarity": 0.1692,
+        "textblob_subjectivity": 0.44
+    },
+    "263745, 16918": {
+        "lexicon_polarity": 0.1042,
+        "textblob_polarity": 0.1319,
+        "textblob_subjectivity": 0.6433
+    },
+    "268967, 16918": {
+        "lexicon_polarity": 0.3147,
+        "textblob_polarity": 0.2771,
+        "textblob_subjectivity": 0.6854
+    },
+    "269718, 16918": {
+        "lexicon_polarity": 0.3838,
+        "textblob_polarity": 0.2554,
+        "textblob_subjectivity": 0.4788
+    },
+    "124713, 16918": {
+        "lexicon_polarity": 0.2223,
+        "textblob_polarity": 0.2673,
+        "textblob_subjectivity": 0.3888
+    },
+    "129871, 16918": {
+        "lexicon_polarity": 0.3726,
+        "textblob_polarity": 0.2618,
+        "textblob_subjectivity": 0.6328
+    },
+    "126717, 16918": {
+        "lexicon_polarity": 0.3028,
+        "textblob_polarity": 0.3251,
+        "textblob_subjectivity": 0.5835
+    },
+    "115997, 16918": {
+        "lexicon_polarity": 0.1714,
+        "textblob_polarity": 0.075,
+        "textblob_subjectivity": 0.5861
+    },
+    "202049, 16918": {
+        "lexicon_polarity": 0.275,
+        "textblob_polarity": 0.2162,
+        "textblob_subjectivity": 0.5281
+    },
+    "113495, 16918": {
+        "lexicon_polarity": 0.3751,
+        "textblob_polarity": 0.3305,
+        "textblob_subjectivity": 0.6365
+    },
+    "294876, 16918": {
+        "lexicon_polarity": 0.1582,
+        "textblob_polarity": 0.276,
+        "textblob_subjectivity": 0.5107
+    },
+    "297990, 16918": {
+        "lexicon_polarity": 0.1451,
+        "textblob_polarity": 0.1581,
+        "textblob_subjectivity": 0.5114
+    },
+    "247987, 16918": {
+        "lexicon_polarity": 0.1703,
+        "textblob_polarity": 0.1862,
+        "textblob_subjectivity": 0.4541
+    },
+    "299712, 16918": {
+        "lexicon_polarity": 0.2642,
+        "textblob_polarity": 0.2263,
+        "textblob_subjectivity": 0.5444
+    },
+    "299919, 16918": {
+        "lexicon_polarity": 0.2851,
+        "textblob_polarity": 0.1981,
+        "textblob_subjectivity": 0.5199
+    },
+    "250292, 16918": {
+        "lexicon_polarity": 0.3483,
+        "textblob_polarity": 0.2763,
+        "textblob_subjectivity": 0.5761
+    },
+    "313076, 16918": {
+        "lexicon_polarity": 0.1919,
+        "textblob_polarity": 0.1438,
+        "textblob_subjectivity": 0.4689
+    },
+    "218888, 16918": {
+        "lexicon_polarity": 0.2154,
+        "textblob_polarity": 0.2285,
+        "textblob_subjectivity": 0.587
+    },
+    "113499, 16918": {
+        "lexicon_polarity": 0.1891,
+        "textblob_polarity": 0.1485,
+        "textblob_subjectivity": 0.4841
+    },
+    "229090, 16918": {
+        "lexicon_polarity": 0.389,
+        "textblob_polarity": 0.3245,
+        "textblob_subjectivity": 0.5598
+    },
+    "209515, 16918": {
+        "lexicon_polarity": 0.2476,
+        "textblob_polarity": 0.2297,
+        "textblob_subjectivity": 0.439
+    },
+    "198745, 16918": {
+        "lexicon_polarity": 0.2948,
+        "textblob_polarity": 0.2269,
+        "textblob_subjectivity": 0.4927
+    },
+    "137337, 16918": {
+        "lexicon_polarity": 0.3112,
+        "textblob_polarity": 0.226,
+        "textblob_subjectivity": 0.4631
+    },
+    "159459, 16918": {
+        "lexicon_polarity": 0.4654,
+        "textblob_polarity": 0.3573,
+        "textblob_subjectivity": 0.5986
+    },
+    "211808, 16918": {
+        "lexicon_polarity": 0.3123,
+        "textblob_polarity": 0.2361,
+        "textblob_subjectivity": 0.6187
+    },
+    "235287, 16918": {
+        "lexicon_polarity": 0.2183,
+        "textblob_polarity": 0.1806,
+        "textblob_subjectivity": 0.4442
+    },
+    "155503, 16918": {
+        "lexicon_polarity": 0.2898,
+        "textblob_polarity": 0.2188,
+        "textblob_subjectivity": 0.4036
+    },
+    "215936, 16918": {
+        "lexicon_polarity": 0.1491,
+        "textblob_polarity": 0.0972,
+        "textblob_subjectivity": 0.5063
+    },
+    "263417, 16918": {
+        "lexicon_polarity": 0.2837,
+        "textblob_polarity": 0.2202,
+        "textblob_subjectivity": 0.5367
+    },
+    "238287, 16918": {
+        "lexicon_polarity": 0.1953,
+        "textblob_polarity": 0.1458,
+        "textblob_subjectivity": 0.4991
+    },
+    "114099, 16918": {
+        "lexicon_polarity": 0.1731,
+        "textblob_polarity": 0.1893,
+        "textblob_subjectivity": 0.6359
+    },
+    "125535, 16918": {
+        "lexicon_polarity": 0.258,
+        "textblob_polarity": 0.1347,
+        "textblob_subjectivity": 0.5038
+    },
+    "208325, 16918": {
+        "lexicon_polarity": 0.1538,
+        "textblob_polarity": 0.0775,
+        "textblob_subjectivity": 0.5665
+    },
+    "166201, 16918": {
+        "lexicon_polarity": 0.1029,
+        "textblob_polarity": 0.0535,
+        "textblob_subjectivity": 0.4744
+    },
+    "230913, 1974": {
+        "lexicon_polarity": 0.1726,
+        "textblob_polarity": 0.1807,
+        "textblob_subjectivity": 0.5792
+    },
+    "102203, 1974": {
+        "lexicon_polarity": 0.2609,
+        "textblob_polarity": 0.1662,
+        "textblob_subjectivity": 0.4635
+    },
+    "228093, 30370": {
+        "lexicon_polarity": 0.2078,
+        "textblob_polarity": 0.0733,
+        "textblob_subjectivity": 0.5059
+    },
+    "239666, 30370": {
+        "lexicon_polarity": 0.265,
+        "textblob_polarity": 0.2317,
+        "textblob_subjectivity": 0.4058
+    },
+    "267153, 30370": {
+        "lexicon_polarity": 0.0796,
+        "textblob_polarity": 0.0656,
+        "textblob_subjectivity": 0.471
+    },
+    "200867, 30370": {
+        "lexicon_polarity": 0.287,
+        "textblob_polarity": 0.2941,
+        "textblob_subjectivity": 0.5405
+    },
+    "207777, 30370": {
+        "lexicon_polarity": 0.13,
+        "textblob_polarity": 0.1369,
+        "textblob_subjectivity": 0.4107
+    },
+    "237947, 30370": {
+        "lexicon_polarity": 0.2213,
+        "textblob_polarity": 0.0959,
+        "textblob_subjectivity": 0.3715
+    },
+    "303628, 32005": {
+        "lexicon_polarity": 0.1635,
+        "textblob_polarity": 0.1439,
+        "textblob_subjectivity": 0.5561
+    },
+    "314103, 32005": {
+        "lexicon_polarity": -0.1137,
+        "textblob_polarity": -0.1017,
+        "textblob_subjectivity": 0.5009
+    },
+    "233056, 32005": {
+        "lexicon_polarity": -0.2433,
+        "textblob_polarity": -0.2362,
+        "textblob_subjectivity": 0.5551
+    },
+    "227394, 32005": {
+        "lexicon_polarity": 0.2276,
+        "textblob_polarity": 0.185,
+        "textblob_subjectivity": 0.5042
+    },
+    "319408, 32005": {
+        "lexicon_polarity": 0.1931,
+        "textblob_polarity": 0.1677,
+        "textblob_subjectivity": 0.6088
+    },
+    "220465, 32005": {
+        "lexicon_polarity": 0.6556,
+        "textblob_polarity": 0.508,
+        "textblob_subjectivity": 0.6421
+    },
+    "219840, 32005": {
+        "lexicon_polarity": 0.3016,
+        "textblob_polarity": 0.368,
+        "textblob_subjectivity": 0.6392
+    },
+    "224073, 32005": {
+        "lexicon_polarity": -0.0305,
+        "textblob_polarity": 0.0011,
+        "textblob_subjectivity": 0.4995
+    },
+    "300374, 16918": {
+        "lexicon_polarity": 0.33,
+        "textblob_polarity": 0.2289,
+        "textblob_subjectivity": 0.4558
+    },
+    "203203, 16918": {
+        "lexicon_polarity": 0.1546,
+        "textblob_polarity": 0.1881,
+        "textblob_subjectivity": 0.4961
+    },
+    "114341, 16918": {
+        "lexicon_polarity": 0.1374,
+        "textblob_polarity": 0.1508,
+        "textblob_subjectivity": 0.5591
+    },
+    "192456, 16918": {
+        "lexicon_polarity": 0.2541,
+        "textblob_polarity": 0.2952,
+        "textblob_subjectivity": 0.5621
+    },
+    "255858, 16918": {
+        "lexicon_polarity": 0.2283,
+        "textblob_polarity": 0.1995,
+        "textblob_subjectivity": 0.6644
+    },
+    "115891, 16918": {
+        "lexicon_polarity": -0.0209,
+        "textblob_polarity": 0.068,
+        "textblob_subjectivity": 0.5669
+    },
+    "323307, 16918": {
+        "lexicon_polarity": 0.2747,
+        "textblob_polarity": 0.1864,
+        "textblob_subjectivity": 0.5357
+    },
+    "116973, 16918": {
+        "lexicon_polarity": -0.1007,
+        "textblob_polarity": -0.0088,
+        "textblob_subjectivity": 0.5523
+    },
+    "181842, 16918": {
+        "lexicon_polarity": 0.3448,
+        "textblob_polarity": 0.2808,
+        "textblob_subjectivity": 0.5422
+    },
+    "113669, 16918": {
+        "lexicon_polarity": 0.191,
+        "textblob_polarity": 0.1476,
+        "textblob_subjectivity": 0.4747
+    },
+    "156615, 16918": {
+        "lexicon_polarity": 0.3432,
+        "textblob_polarity": 0.208,
+        "textblob_subjectivity": 0.4992
+    },
+    "161923, 16918": {
+        "lexicon_polarity": 0.2216,
+        "textblob_polarity": 0.1962,
+        "textblob_subjectivity": 0.5486
+    },
+    "181114, 16918": {
+        "lexicon_polarity": 0.2756,
+        "textblob_polarity": 0.2146,
+        "textblob_subjectivity": 0.5329
+    },
+    "131359, 16918": {
+        "lexicon_polarity": 0.2077,
+        "textblob_polarity": 0.1568,
+        "textblob_subjectivity": 0.4366
+    },
+    "113601, 16918": {
+        "lexicon_polarity": 0.228,
+        "textblob_polarity": 0.1935,
+        "textblob_subjectivity": 0.5086
+    },
+    "113461, 16918": {
+        "lexicon_polarity": 0.1769,
+        "textblob_polarity": 0.1474,
+        "textblob_subjectivity": 0.4981
+    },
+    "175283, 16918": {
+        "lexicon_polarity": 0.212,
+        "textblob_polarity": 0.1839,
+        "textblob_subjectivity": 0.5825
+    },
+    "107979, 16918": {
+        "lexicon_polarity": 0.0926,
+        "textblob_polarity": 0.1114,
+        "textblob_subjectivity": 0.5383
+    },
+    "118777, 16918": {
+        "lexicon_polarity": 0.2533,
+        "textblob_polarity": 0.2126,
+        "textblob_subjectivity": 0.5181
+    },
+    "308481, 1974": {
+        "lexicon_polarity": 0.23,
+        "textblob_polarity": 0.2429,
+        "textblob_subjectivity": 0.4393
+    },
+    "35298, 1974": {
+        "lexicon_polarity": 0.2534,
+        "textblob_polarity": 0.2441,
+        "textblob_subjectivity": 0.4891
+    },
+    "218316, 1974": {
+        "lexicon_polarity": 0.0583,
+        "textblob_polarity": 0.0886,
+        "textblob_subjectivity": 0.4693
+    },
+    "113053, 1974": {
+        "lexicon_polarity": 0.1715,
+        "textblob_polarity": 0.1114,
+        "textblob_subjectivity": 0.5139
+    },
+    "72081, 1974": {
+        "lexicon_polarity": 0.2025,
+        "textblob_polarity": 0.3135,
+        "textblob_subjectivity": 0.5202
+    },
+    "256797, 1974": {
+        "lexicon_polarity": 0.1445,
+        "textblob_polarity": 0.0198,
+        "textblob_subjectivity": 0.7397
+    },
+    "270416, 1974": {
+        "lexicon_polarity": 0.2499,
+        "textblob_polarity": 0.2453,
+        "textblob_subjectivity": 0.5134
+    },
+    "73923, 1974": {
+        "lexicon_polarity": 0.1471,
+        "textblob_polarity": 0.1149,
+        "textblob_subjectivity": 0.4892
+    },
+    "34929, 1974": {
+        "lexicon_polarity": 0.4119,
+        "textblob_polarity": 0.2862,
+        "textblob_subjectivity": 0.568
+    },
+    "282554, 1974": {
+        "lexicon_polarity": 0.335,
+        "textblob_polarity": 0.2844,
+        "textblob_subjectivity": 0.4021
+    },
+    "76457, 1974": {
+        "lexicon_polarity": 0.1436,
+        "textblob_polarity": 0.1561,
+        "textblob_subjectivity": 0.5449
+    },
+    "70017, 1974": {
+        "lexicon_polarity": 0.2991,
+        "textblob_polarity": 0.3501,
+        "textblob_subjectivity": 0.4911
+    },
+    "17788, 1974": {
+        "lexicon_polarity": 0.0625,
+        "textblob_polarity": 0.0721,
+        "textblob_subjectivity": 0.569
+    },
+    "264387, 1974": {
+        "lexicon_polarity": 0.2213,
+        "textblob_polarity": 0.1682,
+        "textblob_subjectivity": 0.4969
+    },
+    "20108, 1974": {
+        "lexicon_polarity": 0.1437,
+        "textblob_polarity": 0.1486,
+        "textblob_subjectivity": 0.5803
+    },
+    "191134, 1974": {
+        "lexicon_polarity": 0.1412,
+        "textblob_polarity": 0.1514,
+        "textblob_subjectivity": 0.4996
+    },
+    "278052, 1974": {
+        "lexicon_polarity": 0.0487,
+        "textblob_polarity": 0.1049,
+        "textblob_subjectivity": 0.499
+    },
+    "4147, 1974": {
+        "lexicon_polarity": 0.3897,
+        "textblob_polarity": 0.4383,
+        "textblob_subjectivity": 0.5917
+    },
+    "7388, 1974": {
+        "lexicon_polarity": 0.2226,
+        "textblob_polarity": 0.1817,
+        "textblob_subjectivity": 0.5026
+    },
+    "206372, 30276": {
+        "lexicon_polarity": 0.2892,
+        "textblob_polarity": 0.2392,
+        "textblob_subjectivity": 0.6249
+    },
+    "206140, 30276": {
+        "lexicon_polarity": 0.1636,
+        "textblob_polarity": 0.1966,
+        "textblob_subjectivity": 0.5147
+    },
+    "206271, 30276": {
+        "lexicon_polarity": 0.4475,
+        "textblob_polarity": 0.3079,
+        "textblob_subjectivity": 0.6318
+    },
+    "206371, 30276": {
+        "lexicon_polarity": 0.2546,
+        "textblob_polarity": 0.2007,
+        "textblob_subjectivity": 0.4285
+    },
+    "206231, 30276": {
+        "lexicon_polarity": 0.118,
+        "textblob_polarity": 0.2065,
+        "textblob_subjectivity": 0.5746
+    },
+    "206201, 30276": {
+        "lexicon_polarity": 0.3292,
+        "textblob_polarity": 0.2875,
+        "textblob_subjectivity": 0.4087
+    },
+    "206184, 30276": {
+        "lexicon_polarity": 0.1305,
+        "textblob_polarity": 0.1316,
+        "textblob_subjectivity": 0.5402
+    },
+    "100737, 918": {
+        "lexicon_polarity": 0.3247,
+        "textblob_polarity": 0.3035,
+        "textblob_subjectivity": 0.6506
+    },
+    "120011, 918": {
+        "lexicon_polarity": 0.3879,
+        "textblob_polarity": 0.3254,
+        "textblob_subjectivity": 0.6355
+    },
+    "108365, 918": {
+        "lexicon_polarity": 0.1597,
+        "textblob_polarity": 0.1762,
+        "textblob_subjectivity": 0.5016
+    },
+    "66139, 918": {
+        "lexicon_polarity": 0.3923,
+        "textblob_polarity": 0.3535,
+        "textblob_subjectivity": 0.5576
+    },
+    "191854, 918": {
+        "lexicon_polarity": 0.2385,
+        "textblob_polarity": 0.1965,
+        "textblob_subjectivity": 0.5358
+    },
+    "84545, 918": {
+        "lexicon_polarity": 0.3852,
+        "textblob_polarity": 0.3531,
+        "textblob_subjectivity": 0.5375
+    },
+    "209154, 918": {
+        "lexicon_polarity": 0.1629,
+        "textblob_polarity": 0.1395,
+        "textblob_subjectivity": 0.514
+    },
+    "314510, 918": {
+        "lexicon_polarity": 0.0817,
+        "textblob_polarity": 0.0828,
+        "textblob_subjectivity": 0.4955
+    },
+    "238765, 918": {
+        "lexicon_polarity": 0.1082,
+        "textblob_polarity": 0.1587,
+        "textblob_subjectivity": 0.521
+    },
+    "321759, 918": {
+        "lexicon_polarity": 0.1321,
+        "textblob_polarity": 0.1631,
+        "textblob_subjectivity": 0.5201
+    },
+    "323326, 918": {
+        "lexicon_polarity": 0.0609,
+        "textblob_polarity": 0.1657,
+        "textblob_subjectivity": 0.5863
+    },
+    "262486, 918": {
+        "lexicon_polarity": 0.0499,
+        "textblob_polarity": 0.0858,
+        "textblob_subjectivity": 0.5445
+    },
+    "195909, 918": {
+        "lexicon_polarity": 0.1936,
+        "textblob_polarity": 0.1913,
+        "textblob_subjectivity": 0.5137
+    },
+    "195035, 918": {
+        "lexicon_polarity": 0.2462,
+        "textblob_polarity": 0.2049,
+        "textblob_subjectivity": 0.5157
+    },
+    "170509, 918": {
+        "lexicon_polarity": 0.4273,
+        "textblob_polarity": 0.4144,
+        "textblob_subjectivity": 0.5833
+    },
+    "211465, 918": {
+        "lexicon_polarity": 0.4766,
+        "textblob_polarity": 0.3171,
+        "textblob_subjectivity": 0.5421
+    },
+    "209883, 918": {
+        "lexicon_polarity": 0.1171,
+        "textblob_polarity": 0.1409,
+        "textblob_subjectivity": 0.4269
+    },
+    "209047, 918": {
+        "lexicon_polarity": 0.2889,
+        "textblob_polarity": 0.2877,
+        "textblob_subjectivity": 0.679
+    },
+    "218045, 918": {
+        "lexicon_polarity": 0.1647,
+        "textblob_polarity": 0.1283,
+        "textblob_subjectivity": 0.5053
+    },
+    "73065, 918": {
+        "lexicon_polarity": 0.1687,
+        "textblob_polarity": 0.1307,
+        "textblob_subjectivity": 0.5447
+    },
+    "168723, 2904": {
+        "lexicon_polarity": 0.3384,
+        "textblob_polarity": 0.3223,
+        "textblob_subjectivity": 0.5879
+    },
+    "188015, 2904": {
+        "lexicon_polarity": 0.1801,
+        "textblob_polarity": 0.1425,
+        "textblob_subjectivity": 0.5457
+    },
+    "73297, 2904": {
+        "lexicon_polarity": 0.1719,
+        "textblob_polarity": 0.1193,
+        "textblob_subjectivity": 0.6227
+    },
+    "10020, 2904": {
+        "lexicon_polarity": 0.3652,
+        "textblob_polarity": 0.2261,
+        "textblob_subjectivity": 0.5695
+    },
+    "37715, 2904": {
+        "lexicon_polarity": 0.4529,
+        "textblob_polarity": 0.3417,
+        "textblob_subjectivity": 0.4219
+    },
+    "37017, 2904": {
+        "lexicon_polarity": 0.2766,
+        "textblob_polarity": 0.1384,
+        "textblob_subjectivity": 0.4835
+    },
+    "17247, 2904": {
+        "lexicon_polarity": 0.2709,
+        "textblob_polarity": 0.1936,
+        "textblob_subjectivity": 0.5489
+    },
+    "16460, 2904": {
+        "lexicon_polarity": 0.6122,
+        "textblob_polarity": 0.4286,
+        "textblob_subjectivity": 0.6349
+    },
+    "291326, 2904": {
+        "lexicon_polarity": 0.1148,
+        "textblob_polarity": 0.1748,
+        "textblob_subjectivity": 0.5499
+    },
+    "291660, 2904": {
+        "lexicon_polarity": 0.2268,
+        "textblob_polarity": 0.1466,
+        "textblob_subjectivity": 0.3864
+    },
+    "254938, 2904": {
+        "lexicon_polarity": -0.1424,
+        "textblob_polarity": -0.0752,
+        "textblob_subjectivity": 0.6159
+    },
+    "258457, 2904": {
+        "lexicon_polarity": 0.2249,
+        "textblob_polarity": 0.221,
+        "textblob_subjectivity": 0.5645
+    },
+    "68969, 2904": {
+        "lexicon_polarity": 0.2188,
+        "textblob_polarity": 0.179,
+        "textblob_subjectivity": 0.5841
+    },
+    "198276, 2904": {
+        "lexicon_polarity": 0.1276,
+        "textblob_polarity": 0.0647,
+        "textblob_subjectivity": 0.4849
+    },
+    "187398, 2904": {
+        "lexicon_polarity": 0.5608,
+        "textblob_polarity": 0.4028,
+        "textblob_subjectivity": 0.5494
+    },
+    "186522, 2904": {
+        "lexicon_polarity": 0.37,
+        "textblob_polarity": 0.3282,
+        "textblob_subjectivity": 0.5642
+    },
+    "203640, 2904": {
+        "lexicon_polarity": 0.4358,
+        "textblob_polarity": 0.5165,
+        "textblob_subjectivity": 0.6187
+    },
+    "216646, 2904": {
+        "lexicon_polarity": 0.2139,
+        "textblob_polarity": 0.1864,
+        "textblob_subjectivity": 0.6184
+    },
+    "86035, 2904": {
+        "lexicon_polarity": 0.3173,
+        "textblob_polarity": 0.246,
+        "textblob_subjectivity": 0.5622
+    },
+    "315644, 38000": {
+        "lexicon_polarity": 0.1163,
+        "textblob_polarity": 0.0805,
+        "textblob_subjectivity": 0.4596
+    },
+    "316453, 38000": {
+        "lexicon_polarity": 0.3444,
+        "textblob_polarity": 0.2864,
+        "textblob_subjectivity": 0.6395
+    },
+    "317215, 38000": {
+        "lexicon_polarity": 0.2295,
+        "textblob_polarity": 0.1522,
+        "textblob_subjectivity": 0.6424
+    },
+    "317350, 38000": {
+        "lexicon_polarity": 0.2333,
+        "textblob_polarity": 0.1986,
+        "textblob_subjectivity": 0.4965
+    },
+    "317357, 38000": {
+        "lexicon_polarity": 0.3873,
+        "textblob_polarity": 0.3544,
+        "textblob_subjectivity": 0.6067
+    },
+    "317445, 38000": {
+        "lexicon_polarity": 0.0719,
+        "textblob_polarity": 0.0609,
+        "textblob_subjectivity": 0.4914
+    },
+    "317469, 38000": {
+        "lexicon_polarity": 0.3107,
+        "textblob_polarity": 0.2599,
+        "textblob_subjectivity": 0.6374
+    },
+    "317980, 38000": {
+        "lexicon_polarity": 0.3383,
+        "textblob_polarity": 0.2812,
+        "textblob_subjectivity": 0.5883
+    },
+    "318589, 38000": {
+        "lexicon_polarity": 0.3118,
+        "textblob_polarity": 0.2572,
+        "textblob_subjectivity": 0.5669
+    },
+    "318621, 38000": {
+        "lexicon_polarity": 0.2343,
+        "textblob_polarity": 0.3426,
+        "textblob_subjectivity": 0.6667
+    },
+    "318638, 38000": {
+        "lexicon_polarity": 0.1218,
+        "textblob_polarity": 0.1267,
+        "textblob_subjectivity": 0.4979
+    },
+    "318646, 38000": {
+        "lexicon_polarity": 0.2437,
+        "textblob_polarity": 0.1821,
+        "textblob_subjectivity": 0.5751
+    },
+    "318666, 38000": {
+        "lexicon_polarity": 0.2603,
+        "textblob_polarity": 0.2014,
+        "textblob_subjectivity": 0.4795
+    },
+    "318687, 38000": {
+        "lexicon_polarity": 0.3347,
+        "textblob_polarity": 0.2476,
+        "textblob_subjectivity": 0.5464
+    },
+    "318868, 38000": {
+        "lexicon_polarity": 0.2201,
+        "textblob_polarity": 0.2139,
+        "textblob_subjectivity": 0.5097
+    },
+    "318903, 38000": {
+        "lexicon_polarity": 0.0878,
+        "textblob_polarity": 0.1588,
+        "textblob_subjectivity": 0.5
+    },
+    "319014, 38000": {
+        "lexicon_polarity": 0.4325,
+        "textblob_polarity": 0.3783,
+        "textblob_subjectivity": 0.6059
+    },
+    "319543, 38000": {
+        "lexicon_polarity": 0.2871,
+        "textblob_polarity": 0.2104,
+        "textblob_subjectivity": 0.5598
+    },
+    "320409, 38000": {
+        "lexicon_polarity": 0.1132,
+        "textblob_polarity": 0.1029,
+        "textblob_subjectivity": 0.5478
+    },
+    "320735, 38000": {
+        "lexicon_polarity": 0.1471,
+        "textblob_polarity": 0.2356,
+        "textblob_subjectivity": 0.5107
+    },
+    "254563, 199": {
+        "lexicon_polarity": 0.2787,
+        "textblob_polarity": 0.2024,
+        "textblob_subjectivity": 0.556
+    },
+    "260220, 199": {
+        "lexicon_polarity": 0.42,
+        "textblob_polarity": 0.3476,
+        "textblob_subjectivity": 0.4707
+    },
+    "261794, 199": {
+        "lexicon_polarity": 0.2957,
+        "textblob_polarity": 0.2461,
+        "textblob_subjectivity": 0.5313
+    },
+    "272128, 199": {
+        "lexicon_polarity": 0.3669,
+        "textblob_polarity": 0.3061,
+        "textblob_subjectivity": 0.5196
+    },
+    "272389, 199": {
+        "lexicon_polarity": 0.2363,
+        "textblob_polarity": 0.1746,
+        "textblob_subjectivity": 0.5375
+    },
+    "58873, 199": {
+        "lexicon_polarity": 0.2038,
+        "textblob_polarity": 0.1842,
+        "textblob_subjectivity": 0.5205
+    },
+    "227569, 199": {
+        "lexicon_polarity": 0.2917,
+        "textblob_polarity": 0.2526,
+        "textblob_subjectivity": 0.6641
+    },
+    "73633, 199": {
+        "lexicon_polarity": 0.5938,
+        "textblob_polarity": 0.5625,
+        "textblob_subjectivity": 0.8225
+    },
+    "202178, 199": {
+        "lexicon_polarity": 0.1997,
+        "textblob_polarity": 0.1494,
+        "textblob_subjectivity": 0.599
+    },
+    "205647, 199": {
+        "lexicon_polarity": 0.5102,
+        "textblob_polarity": 0.4375,
+        "textblob_subjectivity": 0.6974
+    },
+    "236869, 199": {
+        "lexicon_polarity": 0.2653,
+        "textblob_polarity": 0.2537,
+        "textblob_subjectivity": 0.5314
+    },
+    "141519, 199": {
+        "lexicon_polarity": 0.4594,
+        "textblob_polarity": 0.2851,
+        "textblob_subjectivity": 0.5533
+    },
+    "216070, 199": {
+        "lexicon_polarity": 0.2242,
+        "textblob_polarity": 0.1926,
+        "textblob_subjectivity": 0.5064
+    },
+    "123625, 199": {
+        "lexicon_polarity": 0.2442,
+        "textblob_polarity": 0.173,
+        "textblob_subjectivity": 0.5626
+    },
+    "75423, 199": {
+        "lexicon_polarity": 0.3832,
+        "textblob_polarity": 0.28,
+        "textblob_subjectivity": 0.5549
+    },
+    "278900, 199": {
+        "lexicon_polarity": 0.3802,
+        "textblob_polarity": 0.4085,
+        "textblob_subjectivity": 0.6058
+    },
+    "279837, 199": {
+        "lexicon_polarity": 0.2387,
+        "textblob_polarity": 0.2785,
+        "textblob_subjectivity": 0.6095
+    },
+    "239024, 199": {
+        "lexicon_polarity": 0.2276,
+        "textblob_polarity": 0.2192,
+        "textblob_subjectivity": 0.4514
+    },
+    "241496, 199": {
+        "lexicon_polarity": 0.2788,
+        "textblob_polarity": 0.2127,
+        "textblob_subjectivity": 0.5716
+    },
+    "286797, 199": {
+        "lexicon_polarity": 0.2514,
+        "textblob_polarity": 0.2009,
+        "textblob_subjectivity": 0.438
+    },
+    "305300, 37510": {
+        "lexicon_polarity": 0.181,
+        "textblob_polarity": 0.1261,
+        "textblob_subjectivity": 0.4245
+    },
+    "262626, 5114": {
+        "lexicon_polarity": -0.0506,
+        "textblob_polarity": 0.0882,
+        "textblob_subjectivity": 0.5851
+    },
+    "273100, 5114": {
+        "lexicon_polarity": 0.4608,
+        "textblob_polarity": 0.398,
+        "textblob_subjectivity": 0.5582
+    },
+    "203139, 5114": {
+        "lexicon_polarity": 0.37,
+        "textblob_polarity": 0.2572,
+        "textblob_subjectivity": 0.5584
+    },
+    "19853, 5114": {
+        "lexicon_polarity": 0.3701,
+        "textblob_polarity": 0.2911,
+        "textblob_subjectivity": 0.4987
+    },
+    "192134, 5114": {
+        "lexicon_polarity": 0.2285,
+        "textblob_polarity": 0.2739,
+        "textblob_subjectivity": 0.5369
+    },
+    "192815, 5114": {
+        "lexicon_polarity": 0.3336,
+        "textblob_polarity": 0.3789,
+        "textblob_subjectivity": 0.7075
+    },
+    "36046, 5114": {
+        "lexicon_polarity": 0.2276,
+        "textblob_polarity": 0.1784,
+        "textblob_subjectivity": 0.5379
+    },
+    "309886, 5114": {
+        "lexicon_polarity": 0.1578,
+        "textblob_polarity": 0.1679,
+        "textblob_subjectivity": 0.5374
+    },
+    "310516, 5114": {
+        "lexicon_polarity": 0.1207,
+        "textblob_polarity": 0.1047,
+        "textblob_subjectivity": 0.4785
+    },
+    "14562, 5114": {
+        "lexicon_polarity": 0.2241,
+        "textblob_polarity": 0.2026,
+        "textblob_subjectivity": 0.5069
+    },
+    "205121, 5114": {
+        "lexicon_polarity": 0.2028,
+        "textblob_polarity": 0.1946,
+        "textblob_subjectivity": 0.5729
+    },
+    "164793, 5114": {
+        "lexicon_polarity": 0.2848,
+        "textblob_polarity": 0.2423,
+        "textblob_subjectivity": 0.5365
+    },
+    "211750, 5114": {
+        "lexicon_polarity": 0.3005,
+        "textblob_polarity": 0.2864,
+        "textblob_subjectivity": 0.4987
+    },
+    "128295, 5114": {
+        "lexicon_polarity": 0.0716,
+        "textblob_polarity": 0.0928,
+        "textblob_subjectivity": 0.531
+    },
+    "24803, 5114": {
+        "lexicon_polarity": 0.1732,
+        "textblob_polarity": 0.1824,
+        "textblob_subjectivity": 0.5308
+    },
+    "182672, 5114": {
+        "lexicon_polarity": 0.2758,
+        "textblob_polarity": 0.2737,
+        "textblob_subjectivity": 0.6016
+    },
+    "212998, 5114": {
+        "lexicon_polarity": 0.0392,
+        "textblob_polarity": 0.1253,
+        "textblob_subjectivity": 0.5193
+    },
+    "287070, 5114": {
+        "lexicon_polarity": 0.3274,
+        "textblob_polarity": 0.2719,
+        "textblob_subjectivity": 0.5698
+    },
+    "140511, 5114": {
+        "lexicon_polarity": 0.2777,
+        "textblob_polarity": 0.2306,
+        "textblob_subjectivity": 0.5606
+    },
+    "187498, 5114": {
+        "lexicon_polarity": -0.0266,
+        "textblob_polarity": 0.0492,
+        "textblob_subjectivity": 0.5447
+    },
+    "259234, 34599": {
+        "lexicon_polarity": 0.2856,
+        "textblob_polarity": 0.2172,
+        "textblob_subjectivity": 0.5626
+    },
+    "259260, 34599": {
+        "lexicon_polarity": 0.2727,
+        "textblob_polarity": 0.194,
+        "textblob_subjectivity": 0.52
+    },
+    "259337, 34599": {
+        "lexicon_polarity": 0.1864,
+        "textblob_polarity": 0.148,
+        "textblob_subjectivity": 0.6092
+    },
+    "259359, 34599": {
+        "lexicon_polarity": 0.1258,
+        "textblob_polarity": 0.1128,
+        "textblob_subjectivity": 0.4932
+    },
+    "259468, 34599": {
+        "lexicon_polarity": 0.2153,
+        "textblob_polarity": 0.2727,
+        "textblob_subjectivity": 0.6062
+    },
+    "259706, 34599": {
+        "lexicon_polarity": 0.3725,
+        "textblob_polarity": 0.3391,
+        "textblob_subjectivity": 0.5081
+    },
+    "259789, 34599": {
+        "lexicon_polarity": 0.4222,
+        "textblob_polarity": 0.2714,
+        "textblob_subjectivity": 0.4696
+    },
+    "259848, 34599": {
+        "lexicon_polarity": 0.0843,
+        "textblob_polarity": 0.0303,
+        "textblob_subjectivity": 0.4587
+    },
+    "259853, 34599": {
+        "lexicon_polarity": 0.2236,
+        "textblob_polarity": 0.1709,
+        "textblob_subjectivity": 0.4562
+    }
+}
